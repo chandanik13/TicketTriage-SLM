@@ -79,11 +79,4 @@ def run_smoke_test():
 
 if __name__ == "__main__":
     logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-    
-    print("\nWARNING: This smoke test requires downloading/loading the Qwen LLM.")
-    print("Model execution is strictly prohibited in the current phase.")
-    print("Exiting immediately to prevent unauthorized downloads and GPU usage.")
-    
-    # Uncomment to actually run in Colab
-    # run_smoke_test()
-    sys.exit(0)
+    run_smoke_test()
