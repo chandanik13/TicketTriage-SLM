@@ -1,0 +1,39 @@
+# ──────────────────────────────────────────────
+# TicketTriage-SLM — Dependencies
+# ──────────────────────────────────────────────
+
+# Data & ML
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+torch>=2.0.0
+
+# Hugging Face ecosystem
+transformers>=4.40.0
+datasets>=2.18.0
+peft>=0.10.0
+trl>=0.8.0
+accelerate>=0.28.0
+
+# Quantization (for memory-efficient GPU loading)
+bitsandbytes>=0.43.0
+
+# Tokenizer support
+sentencepiece>=0.2.0
+protobuf>=4.25.0
+
+# Application UI
+gradio>=4.20.0
+
+# Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Utilities
+tqdm>=4.66.0
+
+# Testing
+pytest>=8.0.0
+
+# Environment Variables
+python-dotenv>=1.0.0

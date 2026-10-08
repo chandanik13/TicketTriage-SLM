@@ -1,0 +1,751 @@
+ticket_id,text,category,priority,sentiment,language,resolution
+TKT-03859,I was charged twice and I want my money back for the extra payment. The amount I need returned is $24.99. Please confirm when the reversal has been issued.,refund,urgent,neutral,english,refund_duplicate_charge
+TKT-00016,The payment FOR MY LAST order appears duplicated. Order number ORD-765620 seems to be the one affected. I expect a refund for the duplicate amount.,billing,high,negative,english,refund_duplicate_charge
+TKT-03398,The product broke WITHIN THE FIRST DAY — I need my money back!!,refund,urgent,negative,english,refund_duplicate_charge
+TKT-00771,Two payements of the same amount showed up on my bank statement today. How do I get the extra amount refunded?,billing,high,neutral,english,refund_duplicate_charge
+TKT-00912,"Honestly, this is the worst experience. After the recent update, the app doesn't load properly. I attached a screenshot but can't include it here. Can someone please help me resolve this?",technical,high,negative,english,technical_troubleshooting
+TKT-02604,The tracking information hasn't been updated in five days. I've contacted the courier but they redirected me to you. I'm very disappointed with the delivery experience.,shipping,high,neutral,english,track_order
+TKT-03669,My return was approved weeks ago but the credit still hasn't appeared,refund,urgent,negative,english,refund_duplicate_charge
+TKT-02466,I am so done with this. I enter my email and password but nothing happens. I've been a customer since 2021!!,account,medium,negative,english,resolve_login_issue
+TKT-03953,I paid twice by mistake and need one payment returned. I need the amount credited to my original payment method.,refund,high,positive,english,refund_duplicate_charge
+TKT-00543,My bank shows two identical transactions from your company. Both transactions show $9.99.,billing,medium,negative,english,refund_duplicate_charge
+TKT-00267,My bank shows two identical transactions from your company. It appeared on my statement dated two days ago. Please investigate and process a correction.,billing,medium,negative,english,refund_duplicate_charge
+TKT-00412,This is ridiculous. I think the system charged me twice when I placed my order. This happened on on the 15th. Please fix this and credit my account...,billing,high,negative,english,refund_duplicate_charge
+TKT-02178,"Honestly, this is the worst experience. Single sign-on with Google isn't working for my account anymore. Is there another way to verify my identity?",account,high,negative,english,resolve_login_issue
+TKT-03939,I accidentally purchased the wrong plan and need my money back. The order number is ORD-830995.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-04693,Can you help me cancel before the next payement cycle? I read the cancellation policy but still have questions. Can you also delete my stored payment information?,subscription,medium,negative,english,cancel_subscription
+TKT-02878,My neighbor says no delivery attempt was made at my adress. I ordered on earlier this week. I need to know when I'll receive my order.,shipping,medium,negative,english,track_order
+TKT-03949,This is absolutely unacceptable. I paid twice by mistake and need one payment returned. The return tracking shows it was delivered back to your warehouse. Please return my payment as soon as possible.,refund,high,negative,english,refund_duplicate_charge
+TKT-01851,I requested a password reset but didn't get any email. I've already tried from multiple devices.,account,high,negative,english,reset_password
+TKT-00108,Two payments of the same amount showed up on my bank statement today. Both transactions show $19.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-02240,this is absolutely unacceptable. single sign-on with google isn't working for my account anymore,account,medium,negative,english,resolve_login_issue
+TKT-04021,I was told I would get my payment back but it hasn't appeared on my statement. I returned the item via FedEx on last Monday. This has gone on too long — I want my money back now.,refund,high,neutral,english,refund_duplicate_charge
+TKT-00885,This is the third time I'm reaching out about the same issue. My device won't connect to your service properly. I've already tried all the basic troubleshooting steps,technical,medium,negative,english,technical_troubleshooting
+TKT-01975,two-factor authentication isn't sending me the verification code. i checked my spam folder but nothing is there. i can't acess any of my saved data without logging in.,account,medium,negative,english,resolve_login_issue
+TKT-00809,Seriously?? Your system appears to have processed my payment twice.,billing,medium,negative,english,refund_duplicate_charge
+TKT-04048,The product broke within the first day — I need my money back. I was charged $149.99 twice!!,refund,urgent,neutral,english,refund_duplicate_charge
+TKT-04999,I want to unsubscribe from the premium tier!!,subscription,high,positive,english,cancel_subscription
+TKT-04539,"Dear support team, I tried to cancel online but the button doesn't seem to work. I don't see a cancel option in my account settings. Just want this taken care of.",subscription,medium,neutral,english,cancel_subscription
+TKT-02043,My temporary password stopped working before I could set a new one. I've been a customer since 2022.,account,high,neutral,english,reset_password
+TKT-04256,I want to make sure I won't be charged next month. I'm currently on the Starter plan. Thank you for processing this promptly.,subscription,medium,neutral,english,cancel_subscription
+TKT-01280,I can't get the app to work on my phone since yesterday. My internet connection is fine — other apps work normally. I'd apreciate any help with this problem.,technical,high,negative,english,technical_troubleshooting
+TKT-02474,I am so done with this. I can't sign in from my new phone. I checked my spam folder but nothing is there.,account,low,negative,english,resolve_login_issue
+TKT-03460,NOT HAPPY AT ALL. I returned my order two weeks ago but still haven't gotten my money back. The return tracking shows it was delivered back to your warehouse. Can you expedite this reimbursement?,refund,medium,negative,english,refund_duplicate_charge
+TKT-02542,The tracking information hasn't been updated in five days. This is a gift and I needed it by a specific date.,shipping,medium,positive,english,track_order
+TKT-03617,"I am so done with this. The product I received is defective and I want my money back. I want a full reimbursement, not store credit!!",refund,high,negative,english,refund_duplicate_charge
+TKT-01039,The download keeps failing at 80 percent every single time. I've tried using different browsers but same issue.,technical,high,negative,english,technical_troubleshooting
+TKT-00734,"Hi, I hope this message finds you well. Could you check my recent transactions? There seem to be two identical ones. Can you resolve this? I shouldn't have been charged twice.",billing,urgent,neutral,english,refund_duplicate_charge
+TKT-02655,I want to know why my package is taking so long,shipping,medium,negative,english,track_order
+TKT-02894,The delivery was supposed to arrive by last week. My order number is ORD-414652,shipping,low,negative,english,track_order
+TKT-03998,not happy at all. the item doesn't match the description and i want my money returned.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-04951,I've BEEN TRYING to cancel for days but can't figure out how. Can you also delete my stored payment information?,subscription,medium,negative,english,cancel_subscription
+TKT-00218,My card was debited twice for a single order. Please investigate and process a correction.,billing,high,neutral,english,refund_duplicate_charge
+TKT-04440,How do I stop my recurring payment? I've been a member since 2024.,subscription,medium,neutral,english,cancel_subscription
+TKT-02933,The delivery was supposed to arrive by on the 15th. I'd like to file a complaint about the delivery service.,shipping,low,neutral,english,track_order
+TKT-02568,My neighbor says no delivery attempt was made at my address.,shipping,medium,neutral,english,track_order
+TKT-04786,I'm switching to a different provider and need to cancel here. I'm currently on the Enterprise plan.,subscription,medium,neutral,english,cancel_subscription
+TKT-00735,I just checked my statement and there's a double payment. Both transactions show $79.99. I would appreciate it if you could refund the extra amount.,billing,urgent,positive,english,refund_duplicate_charge
+TKT-00484,i've been charged an extra amount that i didn't authorize. i noticed this when i checked my statement on last monday.,billing,high,negative,english,refund_duplicate_charge
+TKT-01829,"Hello, I hope you're having a good day. Every time I try to sign in, it says 'invalid credentials'. This is becoming very frustrating.",account,high,neutral,english,resolve_login_issue
+TKT-01806,The password reset email never arrives in my inbox. What steps do I need to take to fix this?,account,high,neutral,english,reset_password
+TKT-00363,I've wasted so much time on this already. Something went wrong with my payment — the amount was deducted two times. Reference number: ORD-515811. Please fix this and credit my account.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-02080,Seriously?? My account shows as deactivated but I never deactivated it. I checked my spam folder but nothing is there.,account,medium,negative,english,resolve_login_issue
+TKT-01402,I'm really upset about this. I'm experiencing constant buffering and lag on your platform. Is this a known issue? Are you working on a fix?,technical,urgent,negative,english,technical_troubleshooting
+TKT-01825,This is the third time I'm reaching out about the same issue. I enter my email and password but nothing happens. I checked my spam folder but nothing is there.,account,medium,negative,english,resolve_login_issue
+TKT-01350,The application is not responding after the latest update. I've already tried all the basic troubleshooting steps.,technical,high,negative,english,technical_troubleshooting
+TKT-01263,"Hello, I hope you're having a good day. I keep getting a connection error when I try to use the app.",technical,high,neutral,english,technical_troubleshooting
+TKT-03310,"Hello, thank you in advance for your help. I haven't received any shipping updates since I placed my order. I chose standard delivery.",shipping,low,neutral,english,track_order
+TKT-03837,NOT HAPPY AT ALL. I accidentally purchased the wrong plan and need my money back. I already spoke with someone who said it would be taken care of. Is there anything else you need from me to process this?,refund,medium,negative,english,refund_duplicate_charge
+TKT-00837,This is absolutely unacceptable. The app is super slow and basically unusable right now. My internet connection is fine — other apps work normally. Is there a workaround I can try in the meantime?,technical,medium,negative,english,technical_troubleshooting
+TKT-04584,I am extremely frustrated. The service isn't worth the monthly fee anymore.,subscription,urgent,negative,english,cancel_subscription
+TKT-02846,The delivery was supposed to arrive by yesterday. I selected express delivery.,shipping,medium,neutral,english,track_order
+TKT-01456,I am extremely frustrated. I'm getting a weird error message when I use the application. How can I get this working again?,technical,medium,negative,english,technical_troubleshooting
+TKT-04034,I'm really upset about this. I accidentally purchased the wrong plan and need my money back. Can you expedite this reimbursement?,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03956,"I am extremely frustrated. The service didn't work as advertised — I want my money back. I want a full reimbursement, not store credit.",refund,urgent,negative,english,refund_duplicate_charge
+TKT-02873,The delivery was supposed to arrive by earlier this week. Is there any way to speed this up?,shipping,medium,neutral,english,track_order
+TKT-02698,My parcel has been sitting at the distribution center for a week,shipping,medium,negative,english,track_order
+TKT-04194,How do I stop my recurring payment? I already tried to cancel through the website. Make sure no further charges are applied.,subscription,medium,negative,english,cancel_subscription
+TKT-01767,two-factor authentication isn't sending me the verification code.,account,high,negative,english,resolve_login_issue
+TKT-04827,I want to cancel my monthly plan. My next payement date is September 28th. Can you also delete my stored payment information?,subscription,medium,neutral,english,cancel_subscription
+TKT-01801,I need to change my password but I can't find the option. I've already tried from multiple devices. Can you send me a manual reset link?,account,high,neutral,english,reset_password
+TKT-01480,I'm experiencing constant buffering and lag on your platform. I've already tried all the basic troubleshooting steps. I need this fixed as soon as possible.,technical,high,neutral,english,technical_troubleshooting
+TKT-01265,"I am so done with this. After the recent update, the app doesn't load properly. I've already cleared the cache and reinstalled the app.",technical,urgent,negative,english,technical_troubleshooting
+TKT-03816,My return was approved weeks ago but the credit still hasn't appeared. This has gone on too long — I want my money back now.,refund,low,neutral,english,refund_duplicate_charge
+TKT-04146,My order arrived DAMAGED AND I NEED A full reimbursement. Please return my payment as soon as possible.,refund,high,negative,english,refund_duplicate_charge
+TKT-04291,I signed up by mistake and need to cancel right away. Thank you for processing this promptly.,subscription,medium,neutral,english,cancel_subscription
+TKT-01267,This is absolutely unacceptable. Something is broken in the app — features that used to work don't anymore.,technical,urgent,negative,english,technical_troubleshooting
+TKT-00340,Your SYSTEM APPEARS TO have processed my payment twice. How do I get the extra amount refunded?,billing,low,negative,english,refund_duplicate_charge
+TKT-01027,The page loads very slowly and sometimes times out completely. I've tried restarting my iPhone but the problem persists.,technical,high,neutral,english,technical_troubleshooting
+TKT-04635,I'm switching to a different provider and need to cancel here. I don't see a cancel option in my account settings. Thank you for processing this promptly.,subscription,low,neutral,english,cancel_subscription
+TKT-02702,My order still hasn't arrived and it's been over two weeks. The tracking number is TRK1206966465. I'm very disappointed with the delivery experience.,shipping,high,positive,english,track_order
+TKT-04703,I want to stop all future charges related to my plan. I've been a member since 2023.,subscription,medium,negative,english,cancel_subscription
+TKT-02186,This is ridiculous. The CAPTCHA on the login page keeps failing even when I solve it correctly.,account,high,negative,english,resolve_login_issue
+TKT-04631,I've been trying to cancel for days but can't figure out how. I'm currently on the Basic plan.,subscription,high,negative,english,cancel_subscription
+TKT-04748,i tried to cancel online but the button doesn't seem to work. i'm currently on the pro plan. how soon will the cancellation take effect?,subscription,low,positive,english,cancel_subscription
+TKT-01988,This is absolutely unacceptable. I keep getting 'invalid token' when I click the reset link. I can't access any of my saved data without logging in.,account,high,negative,english,reset_password
+TKT-01760,My temporary password stopped working before I could set a new one. I can provide ID verification if needed. I can't acess any of my saved data without logging in.,account,urgent,neutral,english,reset_password
+TKT-02196,my account seems to be suspended but i don't know why. this is urgent as i need access for work. can you send me a manual reset link?,account,medium,negative,english,resolve_login_issue
+TKT-04102,NOT HAPPY AT ALL. I accidentally purchased the wrong plan and need my money back. I have the receipt and can provide proof of the duplicate charge. I'm going to dispute the charge with my bank if this isn't resolved.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-01549,The notification system seems completely broken on my end. Other users in my household are experiencing the same thing. Is there a workaround I can try in the meantime?,technical,high,neutral,english,technical_troubleshooting
+TKT-03040,"tracking shows my order is in a completely different city. if it's lost, i need a replacement or refund.",shipping,medium,negative,english,track_order
+TKT-04511,I can't believe this is happening again. Please terminate my membership and confirm via email.,subscription,high,negative,english,cancel_subscription
+TKT-03377,I returned my order two weeks ago but still haven't gotten my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-02999,I've wasted so much time on this already. Where is my order? The estimated delivery date has passed.,shipping,low,negative,english,track_order
+TKT-04574,I want to make sure I won't be charged next month. I don't see a cancel option in my account settings. Thank you for processing this promptly.,subscription,low,negative,english,cancel_subscription
+TKT-03408,"Hi there, I have a question. I paid twice by mistake and need one payment returned. Please return my payment as soon as possible.",refund,high,positive,english,refund_duplicate_charge
+TKT-02651,My order has been 'out for delivery' for three days straight. Is there any way to speed this up?,shipping,urgent,negative,english,track_order
+TKT-01888,"I get an error saying my account doesn't exist, but I've had it for years. I've verified my email address already. Please help me regain acess.",account,high,negative,english,resolve_login_issue
+TKT-03528,"I was charged twice and I want my money back for the extra payment. The return tracking shows it was delivered back to your warehouse. I want a full reimbursement, not store credit.",refund,high,neutral,english,refund_duplicate_charge
+TKT-03478,I'm really upset about this. I was charged twice and I want my money back for the extra payment. I already spoke with someone who said it would be taken care of.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-01830,I'm locked out because I forgot my password.,account,medium,negative,english,reset_password
+TKT-03652,I am extremely frustrated. The product I received is defective and I want my money back. I already spoke with someone who said it would be taken care of.,refund,high,negative,english,refund_duplicate_charge
+TKT-02627,I received a delivery confirmation but the package isn't here. My delivery address is correct — I've double checked. This delay is really inconvenient.,shipping,medium,negative,english,track_order
+TKT-02058,I haven't been able to update my password through your website. I can provide ID verification if needed. Please help me regain access.,account,urgent,neutral,english,reset_password
+TKT-03190,"Honestly, this is the worst experience. I placed an order on a few days ago and it still hasn't been delivered. I need to know when I'll receive my order.",shipping,medium,negative,english,track_order
+TKT-00842,My data isn't syncing across devices anymore. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-01700,I'm locked out of my account after too many failed attempts. This is urgent as I need access for work. Is there another way to verify my identity?,account,high,neutral,english,resolve_login_issue
+TKT-03700,I never received my order but I was charged for it. I returned the item via the courier on September 28th.,refund,high,neutral,english,refund_duplicate_charge
+TKT-02902,Is there a way to expedite my delivery? I selected express delivery. I'd like to file a complaint about the delivery service.,shipping,medium,negative,english,track_order
+TKT-02800,I placed an order on September 28th and it still hasn't been delivered.,shipping,medium,negative,english,track_order
+TKT-01166,The system keeps showing error code 503 when I try to access my data. Other users in my household are experiencing the same thing. How can I get this working again?,technical,medium,negative,english,technical_troubleshooting
+TKT-03886,i never received my order but i was charged for it. the return tracking shows it was delivered back to your warehouse.,refund,high,negative,english,refund_duplicate_charge
+TKT-02125,I can't sign in from my new phone. My username is jsmith42.,account,medium,neutral,english,resolve_login_issue
+TKT-01408,I am EXTREMELY FRUSTRATED. I KEEP getting kicked out of the app randomly. Other users in my household are experiencing the same thing. Is there a workaround I can try in the meantime?,technical,medium,negative,english,technical_troubleshooting
+TKT-03031,Where is my order? The estimated delivery date has passed. This is a gift and I needed it by a specific date,shipping,high,neutral,english,track_order
+TKT-00512,Two payments of the same amount showed up on my bank statement today. This happened on October 1st. Would you be able to reverse the second charge?,billing,medium,negative,english,refund_duplicate_charge
+TKT-04730,"Hi, I hope this message finds you well. I want to unsubscribe from the premium tier. I don't see a cancel option in my account settings.",subscription,medium,neutral,english,cancel_subscription
+TKT-04346,"Hello, I hope you're having a good day. How do I stop my recurring payment? I already tried to cancel through the website...",subscription,medium,neutral,english,cancel_subscription
+TKT-04624,I no longer need the service and want to cancel. I need a confirmation email once it's done,subscription,medium,neutral,english,cancel_subscription
+TKT-04590,I want to make sure I won't be charged next month. Please confirm the cancellation in writing.,subscription,low,neutral,english,cancel_subscription
+TKT-00306,Your system appears to have processed my payment twice. I noticed this when I checked my statement on on the 15th.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-00746,Your system appears to have processed my payment twice. I noticed this when I checked my statement on last Friday. Please reverse the duplicate charge.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-03170,I'm really upset about this. My order still hasn't arrived and it's been over two weeks.,shipping,high,negative,english,track_order
+TKT-03894,my return was approved weeks ago but the credit still hasn't appeared. the return tracking shows it was delivered back to your warehouse.,refund,medium,negative,english,refund_duplicate_charge
+TKT-01079,The page loads very slowly and sometimes times out completely. My internet connection is fine — other apps work normally. I'm losing patience with this recurring issue.,technical,low,neutral,english,technical_troubleshooting
+TKT-00298,"I've had it with your service! Two payments of the same amount showed up on my bank statement today. My monthly payment should be $24.99, not double that.",billing,urgent,negative,english,refund_duplicate_charge
+TKT-04545,I want to unsubscribe from the premium tier. Can you also delete my stored payment information?,subscription,urgent,neutral,english,cancel_subscription
+TKT-04294,I've decided to discontinue my plan. I'm currently on the Basic plan. Can you also delete my stored payment information?,subscription,urgent,neutral,english,cancel_subscription
+TKT-04596,Please cancel my auto-renewal — I don't want to be charged again. How soon will the cancellation take effect?,subscription,urgent,positive,english,cancel_subscription
+TKT-04781,Can I cancel mid-cycle and get a prorated refund? I'm currently on the Pro plan. How soon will the cancellation take effect?,subscription,medium,neutral,english,cancel_subscription
+TKT-02472,I keep getting 'invalid token' when I click the reset link. My registered email is j***@email.com. I can't access any of my saved data without logging in.,account,medium,negative,english,reset_password
+TKT-03171,I can't believe this is happening again. Is there a way to expedite my delivery? I chose standard delivery. I need someone to investigate what happened to my package.,shipping,urgent,negative,english,track_order
+TKT-03887,i returned my order two weeks ago but still havent gotten my money back. i was charged $49.99 twice!!,refund,high,negative,english,refund_duplicate_charge
+TKT-01150,I am so done with this. My device won't connect to your service properly. It works fine on my laptop but not on my iPad.,technical,medium,negative,english,technical_troubleshooting
+TKT-02192,I tried resetting my password but I get an error. I can't acess any of my saved data without logging in.,account,low,negative,english,reset_password
+TKT-00608,I was charged twice for the same purchase this month. The amount is $59.99 each time. I'd like to get my money back for the extra charge.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-04065,This is ridiculous. The duplicate charge on my card needs to be reversed immediately. Is there anything else you need from me to process this?,refund,medium,negative,english,refund_duplicate_charge
+TKT-00178,This is ridiculous. The payement for my last order appears duplicated. This is related to order ORD-153379. Can you resolve this? I shouldn't have been charged twice.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-04096,I am so done with this. The product I received is defective and I want my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-04377,I want to unsubscribe from the premium tier. I'm currently on the Standard plan. I need a confirmation email once it's done.,subscription,medium,positive,english,cancel_subscription
+TKT-02482,i need to change my password but i can't find the option. i can provide id verification if needed.,account,medium,negative,english,reset_password
+TKT-01794,I'm locked out of my account after too many failed attempts. This is urgent as I need access for work. Can you send me a manual reset link?,account,high,neutral,english,resolve_login_issue
+TKT-02135,The password reset email never arrives in my inbox. My username is user12345. This is becoming very frustrating.,account,high,neutral,english,reset_password
+TKT-01618,This is absolutely unacceptable. The download keeps failing at 80 percent every single time. I'm using version 2.8.5 on Windows laptop. This is really affecting my work.,technical,high,negative,english,technical_troubleshooting
+TKT-03130,I need to track my package but the tracking number doesn't work. My delivery address is correct — I've double checked.,shipping,low,negative,english,track_order
+TKT-00036,Something went wrong with my payment — the amount was deducted two times. Reference number: ORD-840058.,billing,high,neutral,english,refund_duplicate_charge
+TKT-03164,Can you tell me where my order is right now? I'm very disappointed with the delivery experience.,shipping,high,negative,english,track_order
+TKT-01324,This is the third time I'm reaching out about the same issue. My data isn't syncing across devices anymore. This started happening after the last update. I need this fixed as soon as possible!!,technical,low,negative,english,technical_troubleshooting
+TKT-02657,The delivery was supposed to arrive by earlier this week.,shipping,low,negative,english,track_order
+TKT-00914,I can't believe this is happening again. The interface glitches and buttons don't respond when I tap them. I attached a screenshot but can't include it here. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-00082,My card was debited twice for a single order. I was expecting only one charge of $24.99. I'd like to get my money back for the extra charge.,billing,medium,negative,english,refund_duplicate_charge
+TKT-00249,I was charged twice for the same purchase this month. Order number ORD-355517 seems to be the one affected. Can you resolve this? I shouldn't have been charged twice.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-03730,"Honestly, this is the worst experience. I'm not satisfied with my purchase and would like to return it. The return tracking shows it was delivered back to your warehouse.",refund,urgent,negative,english,refund_duplicate_charge
+TKT-03180,This is absolutely unacceptable. I paid for express delivery but it's been 14 days already. My delivery address is correct — I've double checked. Please provide an updated delivery estimate,shipping,medium,negative,english,track_order
+TKT-01176,"Dear support team, I'm getting a weird error message when I use the application. This has been going on for 6 days now. I need this fixed as soon as possible.",technical,high,positive,english,technical_troubleshooting
+TKT-04337,I've been trying to cancel for days but can't figure out how. I already tried to cancel through the website. How soon will the cancellation take effect?,subscription,medium,neutral,english,cancel_subscription
+TKT-01065,The app is super slow and basically unusable right now. Can you provide a timeline for when this will be resolved?,technical,high,negative,english,technical_troubleshooting
+TKT-04857,I've been trying to cancel for days but can't figure out how. My plan is the Standard tier at $99.99/month. Please confirm the cancellation in writing.,subscription,high,negative,english,cancel_subscription
+TKT-00111,Seriously?? The payment for my last order appears duplicated. How do I get the extra amount refunded?,billing,high,negative,english,refund_duplicate_charge
+TKT-00012,My card was debited twice for a single order.,billing,high,neutral,english,refund_duplicate_charge
+TKT-01186,My data isn't syncing across devices anymore. I attached a screenshot but can't include it here. This is really affecting my work.,technical,urgent,neutral,english,technical_troubleshooting
+TKT-04993,I no longer need the service and want to cancel. I'm currently on the Premium plan.,subscription,high,neutral,english,cancel_subscription
+TKT-04224,the service isn't worth the monthly fee anymore. i don't see a cancel option in my account settings. just want this taken care of.,subscription,urgent,negative,english,cancel_subscription
+TKT-02605,My order still hasn't arrived and it's been over two weeks. This is a gift and I needed it by a specific date. I'm very disappointed with the delivery experience.,shipping,medium,negative,english,track_order
+TKT-00186,Looks like the payment went through two times.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-03198,"Honestly, this is the worst experience. My parcel has been sitting at the distribution center for a week. I'm very disappointed with the delivery experience.",shipping,high,negative,english,track_order
+TKT-03941,I accidentally purchased the wrong plan and need my money back. The amount I need returned is $79.99.,refund,high,negative,english,refund_duplicate_charge
+TKT-01011,The interface glitches and buttons don't respond when I tap them. This started happening after the last update. I rely on this app daily and can't afford downtime.,technical,medium,neutral,english,technical_troubleshooting
+TKT-01416,The software freezes whenever I try to save my work. It works fine on my laptop but not on my Samsung tablet. Is this a known issue? Are you working on a fix?,technical,medium,positive,english,technical_troubleshooting
+TKT-00606,Could you check my recent transactions? There seem to be two identical ones. This is related to order ORD-105830. Can you resolve this? I shouldn't have been charged twice.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-00395,There's a charge I don't recognize that matches my last payement exactly. Both transactions show $9.99...,billing,medium,negative,english,refund_duplicate_charge
+TKT-04969,I don't WANT TO RENEW MY ANNUAL plan. I don't want any retention offers — just cancel please!!,subscription,high,negative,english,cancel_subscription
+TKT-04379,I want to stop all future charges related to my plan. I'm currently on the Enterprise plan. Thank you for processing this promptly.,subscription,medium,neutral,english,cancel_subscription
+TKT-04064,The product I received is defective and I want my money back. I was charged $39.99 twice...,refund,urgent,negative,english,refund_duplicate_charge
+TKT-04552,i'm switching to a different provider and need to cancel here. i'm currently on the premium plan. make sure no further charges are applied.,subscription,medium,negative,english,cancel_subscription
+TKT-01142,I'm getting a weird error message when I use the application. I've already cleared the cache and reinstalled the app. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-03148,I recieved a delivery confirmation but the package isn't here. This is a gift and I needed it by a specific date. I need someone to investigate what happened to my package.,shipping,urgent,negative,english,track_order
+TKT-02984,"i haven't received any shipping updates since i placed my order. my order number is ord-206144. if it's lost, i need a replacement or refund.",shipping,medium,neutral,english,track_order
+TKT-03412,I canceled my order but the charge still went through.,refund,high,neutral,english,refund_duplicate_charge
+TKT-01360,The system keeps showing error code 503 when I try to access my data. I attached a screenshot but can't include it here.,technical,medium,negative,english,technical_troubleshooting
+TKT-02462,The CAPTCHA on the login page keeps failing even when I solve it correctly. Please help me regain acess.,account,high,negative,english,resolve_login_issue
+TKT-03794,The duplicate charge on my card needs to be reversed immediately.,refund,high,neutral,english,refund_duplicate_charge
+TKT-03996,this is absolutely unacceptable. the duplicate charge on my card needs to be reversed immediately. the order number is ord-403035. please confirm when the reversal has been issued.,refund,high,negative,english,refund_duplicate_charge
+TKT-01354,the page loads very slowly and sometimes times out completely. this has been going on for 3 days now. i need this fixed as soon as possible.,technical,urgent,neutral,english,technical_troubleshooting
+TKT-01193,I am so done with this. Your website keeps displaying a blank screen on my browser. I attached a screenshot but can't include it here.,technical,high,negative,english,technical_troubleshooting
+TKT-03755,My return was approved weeks ago but the credit still hasn't appeared. I was charged $49.99 twice.,refund,high,negative,english,refund_duplicate_charge
+TKT-01335,I keep getting kicked out of the app randomly. I attached a screenshot but can't include it here. I'd appreciate any help with this problem.,technical,high,negative,english,technical_troubleshooting
+TKT-02187,The login button is greyed out and I can't click it. This is urgent as I need access for work.,account,urgent,positive,english,resolve_login_issue
+TKT-00292,This is absolutely unacceptable. Two payments of the same amount showed up on my bank statement today.,billing,high,negative,english,refund_duplicate_charge
+TKT-03756,This is ridiculous. I paid twice by mistake and need one payment returned. Please confirm when the reversal has been issued.,refund,medium,negative,english,refund_duplicate_charge
+TKT-03883,I accidentally purchased the wrong plan and need my money back. I have the receipt and can provide proof of the duplicate charge. I need the amount credited to my original payment method.,refund,high,negative,english,refund_duplicate_charge
+TKT-03238,This is absolutely unacceptable. Can you tell me where my order is right now? The tracking number is TRK1346487853. Can you contact the courier on my behalf?,shipping,low,negative,english,track_order
+TKT-00448,I just checked my statement and there's a double payement. I was expecting only one charge of $99.99. Can you resolve this? I shouldn't have been charged twice!!,billing,urgent,negative,english,refund_duplicate_charge
+TKT-02037,I am extremely frustrated. I can't sign in from my new phone. My registered email is a***@gmail.com. What steps do I need to take to fix this?,account,urgent,negative,english,resolve_login_issue
+TKT-02979,Seriously?? I placed an order on on the 15th and it still hasn't been delivered. I selected express delivery.,shipping,low,negative,english,track_order
+TKT-00614,This is ridiculous. My credit card was billed double for my recent purchase. The transaction date shows last Friday. I need the extra payment reversed as soon as possible.,billing,high,negative,english,refund_duplicate_charge
+TKT-03763,I accidentally purchased the wrong plan and need my money back. I returned the item via UPS on October 1st.,refund,high,neutral,english,refund_duplicate_charge
+TKT-03110,Tracking shows my order is in a completely different city. I chose standard delivery. I'm very disappointed with the delivery experience.,shipping,medium,negative,english,track_order
+TKT-03609,I was told I would get my payment back but it hasn't appeared on my statement!!,refund,urgent,negative,english,refund_duplicate_charge
+TKT-00662,There are duplicate charges showing on my card. Please reverse the duplicate charge!!,billing,high,neutral,english,refund_duplicate_charge
+TKT-04523,"Dear support team, I want to cancel my monthly plan. Please confirm the cancellation in writing.",subscription,medium,neutral,english,cancel_subscription
+TKT-01503,The system keeps showing error code 503 when I try to acess my data. Can you provide a timeline for when this will be resolved?,technical,high,neutral,english,technical_troubleshooting
+TKT-00866,The search function in your app returns no results even though I know there should be matches. This has been going on for 11 days now.,technical,low,negative,english,technical_troubleshooting
+TKT-03397,"I paid twice by mistake and need one payement returned. I want a full reimbursement, not store credit.",refund,urgent,negative,english,refund_duplicate_charge
+TKT-04140,I accidentally purchased the wrong plan and need my money back. I was charged $99.99 twice. Please return my payment as soon as possible.,refund,high,neutral,english,refund_duplicate_charge
+TKT-01868,"Hello, I hope you're having a good day. I tried resetting my password but I get an error. This is urgent as I need access for work Thanks in advance!",account,high,positive,english,reset_password
+TKT-02227,How do I change my password? The current one doesn't work. I've been a customer since 2023. I can't access any of my saved data without logging in.,account,medium,neutral,english,reset_password
+TKT-04934,"Good afternoon, I was wondering if you could assist me. I've been trying to cancel for days but can't figure out how. My next payment date is two days ago. I need a confirmation email once it's done.",subscription,low,neutral,english,cancel_subscription
+TKT-01793,I can't log into my account even though I'm using the correct credentials. I can provide ID verification if needed. What steps do I need to take to fix this?,account,medium,negative,english,resolve_login_issue
+TKT-03247,The delivery was supposed to arrive by three days ago. I need someone to investigate what happened to my package.,shipping,medium,neutral,english,track_order
+TKT-04473,"Hi, I hope this message finds you well. Can I cancel mid-cycle and get a prorated refund? I read the cancellation policy but still have questions. I need a confirmation email once it's done.",subscription,medium,neutral,english,cancel_subscription
+TKT-00456,I think the system charged me twice when I placed my order. It appeared on my statement dated last Friday. Please reverse the duplicate charge.,billing,high,negative,english,refund_duplicate_charge
+TKT-02384,Seriously?? My account seems to be suspended but I don't know why. I've been a customer since 2021. Is there another way to verify my identity?,account,medium,negative,english,resolve_login_issue
+TKT-02285,This is absolutely unacceptable. I haven't been able to update my password through your website. I can't access any of my saved data without logging in.,account,medium,negative,english,reset_password
+TKT-03051,I need to track my package but the tracking number doesnt work. Can you check the status of my delivery?,shipping,medium,negative,english,track_order
+TKT-03654,I returned my order two weeks ago but still haven't gotten my money back. I already spoke with someone who said it would be taken care of. Can you expedite this reimbursement?,refund,medium,negative,english,refund_duplicate_charge
+TKT-01955,This is absolutely unacceptable. I can't log into my account even though I'm using the correct credentials. This is urgent as I need access for work. Please advise on what to do next.,account,medium,negative,english,resolve_login_issue
+TKT-02358,"Hi, I hope this message finds you well. I requested a password reset but didn't get any email. I checked my spam folder but nothing is there!!",account,high,neutral,english,reset_password
+TKT-00709,I received two charge notifications for one transaction. Kindly process a refund for the duplicate transaction.,billing,medium,negative,english,refund_duplicate_charge
+TKT-00315,Your system appears to have processed my payment twice. Please investigate and process a correction.,billing,medium,neutral,english,refund_duplicate_charge
+TKT-02832,NOT HAPPY AT ALL. I haven't recieved any shipping updates since I placed my order. I've contacted the courier but they redirected me to you. This delay is really inconvenient.,shipping,low,negative,english,track_order
+TKT-03425,The product I received is defective and I want my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-02200,"I GET AN ERROR saying my account doesn't exist, but I've had it for years. What steps do I need to take to fix this?",account,high,negative,english,resolve_login_issue
+TKT-00625,I think the system charged me twice when I placed my order. The duplicate amount is $59.99. I'd like to get my money back for the extra charge.,billing,low,negative,english,refund_duplicate_charge
+TKT-04259,I want to unsubscribe from the premium tier.,subscription,medium,positive,english,cancel_subscription
+TKT-01921,I am extremely frustrated. The login button is greyed out and I can't click it. I've already tried from multiple devices. Can you send me a manual reset link?,account,urgent,negative,english,resolve_login_issue
+TKT-00933,I'm really upset about this. The app keeps crashing every time I try to open it. I'm using version 4.2.3 on MacBook. I've spent hours trying to fix this myself.,technical,urgent,negative,english,technical_troubleshooting
+TKT-02442,The login button is greyed out and I can't click it. My registered email is user***@mail.com.,account,urgent,negative,english,resolve_login_issue
+TKT-00593,My credit card was billed double for my recent purchase. Please reverse the duplicate charge.,billing,high,negative,english,refund_duplicate_charge
+TKT-04438,"good morning, i'd like some help please. i no longer need the service and want to cancel. how soon will the cancellation take effect?",subscription,medium,neutral,english,cancel_subscription
+TKT-01594,My device won't connect to your service properly. This is really affecting my work.,technical,medium,neutral,english,technical_troubleshooting
+TKT-01657,"Greetings, I'm writing to inquire about something. The download keeps failing at 80 percent every single time. My internet connection is fine — other apps work normally. Is this a known issue? Are you working on a fix?",technical,medium,neutral,english,technical_troubleshooting
+TKT-01973,My temporary password stopped working before I could set a new one. Is there another way to verify my identity?,account,high,negative,english,reset_password
+TKT-02807,Can you tell me where my order is right now? I've contacted the courier but they redirected me to you!!,shipping,medium,negative,english,track_order
+TKT-00972,I've had it with your service! The notification system seems completely broken on my end. Can you provide a timeline for when this will be resolved?,technical,urgent,negative,english,technical_troubleshooting
+TKT-02717,Is there a way to expedite my delivery? I chose standard delivery.,shipping,high,negative,english,track_order
+TKT-00163,The same amount was taken from my card twice. I was expecting only one charge of $9.99. I want the overcharge refunded to my card.,billing,medium,negative,english,refund_duplicate_charge
+TKT-02041,I've had it with your service! Can someone manually reset my password? The automated system isn't working for me. I'd apreciate a quick resolution.,account,low,negative,english,reset_password
+TKT-00948,The interface glitches and buttons don't respond when I tap them. I've spent hours trying to fix this myself.,technical,medium,positive,english,technical_troubleshooting
+TKT-04233,I'd like to end my membership effective immediately. My plan is the Standard tier at $99.99/month. Can you also delete my stored payment information?,subscription,medium,neutral,english,cancel_subscription
+TKT-02746,Seriously?? Tracking shows my order is in a completely different city. Can you contact the courier on my behalf?,shipping,high,negative,english,track_order
+TKT-00988,not happy at all. i keep getting a connection error when i try to use the app. it works fine on my laptop but not on my desktop computer. how can i get this working again?,technical,high,negative,english,technical_troubleshooting
+TKT-01464,My device won't connect to your service properly. My internet connection is fine — other apps work normally. Is there a workaround I can try in the meantime?,technical,medium,neutral,english,technical_troubleshooting
+TKT-01431,I can't believe this is happening again. I keep getting a connection error when I try to use the app. Can someone please help me resolve this?,technical,low,negative,english,technical_troubleshooting
+TKT-03987,The service didn't work as advertised — I want my money back. I was charged $59.99 twice. Please return my payment as soon as possible.,refund,medium,neutral,english,refund_duplicate_charge
+TKT-03154,My order still hasn't arrived and it's been over two weeks. My order number is ORD-654122. I'm very disappointed with the delivery experience.,shipping,low,neutral,english,track_order
+TKT-00672,"i am extremely frustrated. i'm seeing a repeated charge that shouldn't be there. my monthly payement should be $199.99, not double that. would you be able to reverse the second charge?",billing,high,negative,english,refund_duplicate_charge
+TKT-01606,The app keeps crashing every time I try to open it. My internet connection is fine — other apps work normally.,technical,medium,neutral,english,technical_troubleshooting
+TKT-04641,"Hi there, I have a question. How do I stop my recurring payment? I read the cancellation policy but still have questions. Make sure no further charges are applied.",subscription,low,positive,english,cancel_subscription
+TKT-00445,I've wasted so much time on this already. I've been charged an extra amount that I didn't authorize.,billing,high,negative,english,refund_duplicate_charge
+TKT-00438,MY CREDIT CARD WAS BILLED double for my recent purchase. I was expecting only one charge of $49.99. Please fix this and credit my account.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-01113,i keep getting a connection error when i try to use the app. please escalate this if necessary...,technical,medium,negative,english,technical_troubleshooting
+TKT-02293,The password reset email never arrives in my inbox. My registered email is j***@email.com,account,high,negative,english,reset_password
+TKT-03972,I'm not satisfied with my purchase and would like to return it. I was charged $14.99 twice.,refund,high,negative,english,refund_duplicate_charge
+TKT-03454,The service didn't work as advertised — I want my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-03750,This is absolutely unacceptable. The product I received is defective and I want my money back. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-04234,I need to downgrade or cancel my current plan. My next payment date is September 28th. Will I still have access until the end of the current period?,subscription,medium,neutral,english,cancel_subscription
+TKT-02218,The CAPTCHA on the login page keeps failing even when I solve it correctly. My username is maria_garcia.,account,low,negative,english,resolve_login_issue
+TKT-01436,the app is super slow and basically unusable right now.,technical,high,neutral,english,technical_troubleshooting
+TKT-03465,My return was approved weeks ago but the credit still hasn't appeared. The order number is ORD-659827,refund,high,negative,english,refund_duplicate_charge
+TKT-04359,I want to cancel my monthly plan. I don't see a cancel option in my account settings. Thank you for processing this promptly.,subscription,medium,negative,english,cancel_subscription
+TKT-01365,The app is super slow and basically unusable right now. Other users in my household are experiencing the same thing. I'm losing patience with this recurring issue.,technical,high,negative,english,technical_troubleshooting
+TKT-00658,This is absolutely unacceptable. Your system appears to have processed my payment twice. It appeared on my statement dated yesterday.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-04822,I'm REALLY UPSET ABOUT THIS. I don't want to renew my annual plan. I already tried to cancel through the website.,subscription,urgent,negative,english,cancel_subscription
+TKT-02958,I haven't received any shipping updates since I placed my order. Can you check the status of my delivery?,shipping,medium,negative,english,track_order
+TKT-01558,this is absolutely unacceptable. the notification system seems completely broken on my end. this started happening after the last update. i'd appreciate any help with this problem.,technical,medium,negative,english,technical_troubleshooting
+TKT-04935,I want to cancel my monthly plan. I'm currently on the Pro plan. Make sure no further charges are applied...,subscription,medium,negative,english,cancel_subscription
+TKT-04176,I tried to cancel online but the button doesn't seem to work. I need a confirmation email once it's done.,subscription,medium,positive,english,cancel_subscription
+TKT-00870,The search function in your app returns no results even though I know there should be matches. I've tried using different browsers but same issue. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-04303,I don't want to renew my annual plan. I read the cancellation policy but still have questions. Make sure no further charges are applied.,subscription,medium,neutral,english,cancel_subscription
+TKT-04436,Please cancel my auto-renewal — I don't want to be charged again. I don't see a cancel option in my account settings. I don't want any retention offers — just cancel please.,subscription,medium,negative,english,cancel_subscription
+TKT-01032,Seriously?? The application is not responding after the latest update. How can I get this working again?,technical,medium,negative,english,technical_troubleshooting
+TKT-01887,How do I change my password? The current one doesn't work. I've already tried from multiple devices.,account,medium,neutral,english,reset_password
+TKT-04831,Please terminate my membership and confirm via email. Can you also delete my stored payment information?,subscription,high,negative,english,cancel_subscription
+TKT-02728,my parcel has been sitting at the distribution center for a week. i chose standard delivery,shipping,low,negative,english,track_order
+TKT-01162,The interface glitches and buttons don't respond when I tap them. I'm using version 4.2.3 on Samsung tablet.,technical,high,positive,english,technical_troubleshooting
+TKT-04660,"Greetings, I'm writing to inquire about something. I want to make sure I won't be charged next month. I read the cancellation policy but still have questions.",subscription,medium,positive,english,cancel_subscription
+TKT-03950,I am extremely frustrated. The item doesn't match the description and I want my money returned. I need the amount credited to my original payment method.,refund,medium,negative,english,refund_duplicate_charge
+TKT-00719,I'm seeing a repeated charge that shouldn't be there. This happened on September 28th. How do I get the extra amount refunded?,billing,medium,positive,english,refund_duplicate_charge
+TKT-02045,I am extremely frustrated. I'm locked out of my account after too many failed attempts. Please advise on what to do next.,account,medium,negative,english,resolve_login_issue
+TKT-00944,The app keeps crashing every time I try to open it. This is really affecting my work,technical,urgent,neutral,english,technical_troubleshooting
+TKT-00817,I noticed an extra charge on my credit card statement. The amount is $9.99 each time.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-04060,"I canceled my order but the charge still went through. I want a full reimbursement, not store credit.",refund,high,positive,english,refund_duplicate_charge
+TKT-04723,I am extremely frustrated. I want to stop all future charges related to my plan. I'm currently on the Pro plan.,subscription,medium,negative,english,cancel_subscription
+TKT-01101,This is the third time I'm reaching out about the same issue. I'm getting a weird error message when I use the application. Other users in my household are experiencing the same thing. I'm losing patience with this recurring issue.,technical,high,negative,english,technical_troubleshooting
+TKT-03670,"Hi, I hope this message finds you well. I accidentally purchased the wrong plan and need my money back. I already spoke with someone who said it would be taken care of. This has gone on too long — I want my money back now.",refund,urgent,neutral,english,refund_duplicate_charge
+TKT-03394,I received the wrong item and want to return it for a full reimbursement.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-01459,The software freezes whenever I try to save my work. I've tried using different browsers but same issue. Is there a workaround I can try in the meantime?,technical,high,negative,english,technical_troubleshooting
+TKT-02857,"Hi there, I have a question. I received a delivery confirmation but the package isn't here. I ordered on a few days ago. If it's lost, I need a replacement or refund.",shipping,high,neutral,english,track_order
+TKT-04124,"Honestly, this is the worst experience. The product broke within the first day — I need my money back. I want a full reimbursement, not store credit.",refund,low,negative,english,refund_duplicate_charge
+TKT-04257,I'd like to end my membership effective immediately. Thank you for processing this promptly.,subscription,medium,negative,english,cancel_subscription
+TKT-02469,I can't sign in from my new phone. This is urgent as I need access for work. Please advise on what to do next.,account,medium,neutral,english,resolve_login_issue
+TKT-02317,My account shows as deactivated but I never deactivated it. This is urgent as I need access for work.,account,medium,negative,english,resolve_login_issue
+TKT-04356,I've been trying to cancel for days but can't figure out how.,subscription,high,neutral,english,cancel_subscription
+TKT-02834,I am so done with this. My package seems to be stuck in transit!!,shipping,medium,negative,english,track_order
+TKT-03789,My order arrived damaged and I need a full reimbursement. I returned the item via DHL on earlier this week.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-02204,I've been trying to reset my password for the past hour. This is becoming very frustrating.,account,medium,neutral,english,reset_password
+TKT-00724,MY CREDIT card was billed double for my recent purchase. The duplicate amount is $39.99. Can you resolve this? I shouldn't have been charged twice.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-04354,i want to unsubscribe from the premium tier. i read the cancellation policy but still have questions. how soon will the cancellation take effect?,subscription,low,neutral,english,cancel_subscription
+TKT-04847,Please cancel my auto-renewal — I don't want to be charged again. I read the cancellation policy but still have questions.,subscription,medium,neutral,english,cancel_subscription
+TKT-00227,"Dear support team, Could you check my recent transactions? There seem to be two identical ones. Order number ORD-274467 seems to be the one affected.",billing,high,neutral,english,refund_duplicate_charge
+TKT-01203,i'm really upset ABOUT THIS. the notification system seems completely broken on my end. the error code i'm seeing is err-4365.,technical,high,negative,english,technical_troubleshooting
+TKT-04018,i'm really upset about this. i was charged twice by mistake — can i get the extra amount returned? i returned the item via the courier on september 28th.,refund,high,negative,english,refund_duplicate_charge
+TKT-00378,I received two charge notifications for one transaction. Each charge is for $19.99.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-04674,Please cancel my auto-renewal — I don't want to be charged again. Make sure no further charges are applied,subscription,medium,neutral,english,cancel_subscription
+TKT-02307,The reset link I RECEIVED SAYS IT HAS expired.,account,urgent,negative,english,reset_password
+TKT-04032,The duplicate charge on my card needs to be reversed immediately. The return tracking shows it was delivered back to your warehouse. Please confirm when the reversal has been issued.,refund,high,negative,english,refund_duplicate_charge
+TKT-04725,Please remove my payment method and cancel the recurring charge. How soon will the cancellation take effect?,subscription,medium,neutral,english,cancel_subscription
+TKT-03058,Is there a way to expedite my delivery? My order number is ORD-126721. I need to know when I'll receive my order.,shipping,urgent,negative,english,track_order
+TKT-00040,Could you check my recent transactions? There seem to be two identical ones. Both transactions show $149.99. I would appreciate it if you could refund the extra amount.,billing,high,positive,english,refund_duplicate_charge
+TKT-00992,Your website keeps displaying a blank screen on my browser.,technical,medium,negative,english,technical_troubleshooting
+TKT-01577,The app keeps crashing every time I try to open it. I attached a screenshot but can't include it here. How can I get this working again?,technical,high,negative,english,technical_troubleshooting
+TKT-02844,The tracking information hasn't been updated in five days. Can you check the status of my delivery?,shipping,medium,neutral,english,track_order
+TKT-03683,I received the wrong item and want to return it for a full reimbursement. I'm going to dispute the charge with my bank if this isn't resolved.,refund,medium,negative,english,refund_duplicate_charge
+TKT-01645,I'm experiencing constant buffering and lag on your platform. The error code I'm seeing is ERR-7761.,technical,medium,neutral,english,technical_troubleshooting
+TKT-02554,"Good morning, I'd like some help please. My order has been 'out for delivery' for three days straight. Can you check the status of my delivery?",shipping,medium,neutral,english,track_order
+TKT-00457,There are duplicate charges showing on my card. It appeared on my statement dated yesterday. I would appreciate it if you could refund the extra amount.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-02437,I forgot my password and the reset link isn't working. I've already tried from multiple devices.,account,high,neutral,english,reset_password
+TKT-01685,The reset link I received says it has expired. I checked my spam folder but nothing is there. Can you send me a manual reset link?,account,high,neutral,english,reset_password
+TKT-02499,Two-factor authentication isn't sending me the verification code. I've been a customer since 2024.,account,high,negative,english,resolve_login_issue
+TKT-01834,I tried resetting my password but I get an error. My username is maria_garcia. Is there another way to verify my identity?,account,medium,negative,english,reset_password
+TKT-01013,"I've had it with your service! After the recent update, the app doesn't load properly. I've tried restarting my Windows laptop but the problem persists.",technical,high,negative,english,technical_troubleshooting
+TKT-04459,The service isn't worth the monthly fee anymore. My plan is the Pro tier at $19.99/month!!,subscription,high,negative,english,cancel_subscription
+TKT-02237,How do I change my password? The current one doesn't work.,account,medium,neutral,english,reset_password
+TKT-02786,I can't believe this is happening again. I received a delivery confirmation but the package isn't here.,shipping,high,negative,english,track_order
+TKT-02144,I'm locked out of my account after too many failed attempts. I can provide ID verification if needed.,account,medium,negative,english,resolve_login_issue
+TKT-00203,I noticed an extra charge on my credit card statement. Each charge is for $59.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-01614,This is absolutely unacceptable. I'm getting a weird error message when I use the application. I've already cleared the cache and reinstalled the app. Is there a workaround I can try in the meantime?,technical,high,negative,english,technical_troubleshooting
+TKT-04704,The service isn't worth the monthly fee anymore. I don't see a cancel option in my account settings. Just want this taken care of.,subscription,medium,negative,english,cancel_subscription
+TKT-01714,Can someone manually reset my password? The automated system isn't working for me. I've verified my email address already. Please advise on what to do next.,account,high,neutral,english,reset_password
+TKT-01695,I need to change my password but I can't find the option. I can provide ID verification if needed. Please help me regain access.,account,high,negative,english,reset_password
+TKT-00260,I think the system charged me twice when I placed my order. This is related to order ORD-718998.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-00902,my data isn't syncing across devices anymore. it works fine on my laptop but not on my desktop computer.,technical,medium,neutral,english,technical_troubleshooting
+TKT-02861,I received a delivery confirmation but the package isn't here. This is a gift and I needed it by a specific date. I need to know when I'll receive my order.,shipping,medium,negative,english,track_order
+TKT-02790,My order has been 'out for delivery' for three days straight. The tracking number is TRK4299675290. Can you check the status of my delivery?,shipping,medium,negative,english,track_order
+TKT-04338,i've been trying to cancel for days but can't figure out how. i don't want any retention offers — just cancel please.,subscription,medium,negative,english,cancel_subscription
+TKT-02938,I want to know why my package is taking so long. I selected express delivery.,shipping,high,neutral,english,track_order
+TKT-01264,I'm experiencing constant buffering and lag on your platform. This started happening after the last update.,technical,urgent,neutral,english,technical_troubleshooting
+TKT-03373,The product broke within the first day — I need my money back. It's been 2 days since I requested my money back. Is there anything else you need from me to process this?,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03322,I placed an order on earlier this week and it still hasn't been delivered. This is a gift and I needed it by a specific date. Please provide an updated delivery estimate.,shipping,urgent,negative,english,track_order
+TKT-04341,I'm switching to a different provider and need to cancel here. Make sure no further charges are applied.,subscription,medium,neutral,english,cancel_subscription
+TKT-01914,I CAN'T BELIEVE THIS is happening again. I enter my email and password but nothing happens. I've been a customer since 2024.,account,high,negative,english,resolve_login_issue
+TKT-00700,My card was debited twice for a single order. This is related to order ORD-197509.,billing,high,neutral,english,refund_duplicate_charge
+TKT-00157,I just checked my statement and there's a double payment. I was expecting only one charge of $39.99. Please fix this and credit my account.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-02611,Tracking shows my order is in a completely different city. I need someone to investigate what happened to my package.,shipping,medium,negative,english,track_order
+TKT-03078,The estimated arrival keeps getting pushed back. I'm very disappointed with the delivery experience.,shipping,high,neutral,english,track_order
+TKT-00754,NOT HAPPY AT ALL. The same amount was taken from my card twice. Each charge is for $149.99.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-04701,How do I stop my recurring payement? I'm currently on the Enterprise plan. Just want this taken care of.,subscription,medium,negative,english,cancel_subscription
+TKT-03466,"Hello, I hope you're having a good day. I was told I would get my payment back but it hasn't appeared on my statement. I returned the item via FedEx on three days ago.",refund,urgent,neutral,english,refund_duplicate_charge
+TKT-02209,NOT HAPPY AT ALL. The password reset email never arrives in my inbox.,account,urgent,negative,english,reset_password
+TKT-03583,My return was approved weeks ago but the credit still hasn't appeared. The amount I need returned is $39.99. Is there anything else you need from me to process this?,refund,urgent,negative,english,refund_duplicate_charge
+TKT-02010,I can't believe this is happening again. I'm locked out because I forgot my password. Can you send me a manual reset link?,account,high,negative,english,reset_password
+TKT-02486,"Honestly, this is the worst experience. I'm locked out because I forgot my password. I checked my spam folder but nothing is there.",account,high,negative,english,reset_password
+TKT-02434,my password expired and i can't seem to create a new one. i've already tried from multiple devices. what steps do i need to take to fix this?,account,medium,negative,english,reset_password
+TKT-02202,"Hi, I hope this message finds you well. I can't sign in from my new phone. Please help me regain access Thanks so much.",account,high,positive,english,resolve_login_issue
+TKT-00816,The payment for my last order appears duplicated. Both transactions show $79.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-01674,"Dear support team, I enter my email and password but nothing happens. I've already tried from multiple devices. What steps do I need to take to fix this?",account,medium,neutral,english,resolve_login_issue
+TKT-00631,Your system appears to have processed my payement twice.,billing,high,negative,english,refund_duplicate_charge
+TKT-00899,The interface glitches and buttons don't respond when I tap them. I've tried using different browsers but same issue!!,technical,high,neutral,english,technical_troubleshooting
+TKT-00535,The same amount was taken from my card twice. I was expecting only one charge of $19.99. Kindly process a refund for the duplicate transaction.,billing,high,negative,english,refund_duplicate_charge
+TKT-00515,"The payment for my last order appears duplicated. My monthly payment should be $59.99, not double that. Kindly process a refund for the duplicate transaction.",billing,high,neutral,english,refund_duplicate_charge
+TKT-03244,"Hello, I hope you're having a good day. My order still hasn't arrived and it's been over two weeks. I chose standard delivery. Can you check the status of my delivery?",shipping,high,neutral,english,track_order
+TKT-02221,I'm locked out because I forgot my password. Please help me regain acess.,account,high,negative,english,reset_password
+TKT-01733,I can't remember my password and need to regain acess!!,account,high,neutral,english,reset_password
+TKT-04432,I want to unsubscribe from the premium tier. I read the cancellation policy but still have questions. Make sure no further charges are applied.,subscription,high,positive,english,cancel_subscription
+TKT-02471,"I can't believe this is happening again. Every time I try to sign in, it says 'invalid credentials'. This is urgent as I need access for work.",account,high,negative,english,resolve_login_issue
+TKT-03871,"hello, i hope you're having a good day. the duplicate charge on my card needs to be reversed immediately. i already spoke with someone who said it would be taken care of.",refund,medium,neutral,english,refund_duplicate_charge
+TKT-02724,I am so done with this. My order has been 'out for delivery' for three days straight.,shipping,high,negative,english,track_order
+TKT-04816,"Greetings, I'm writing to inquire about something. Please terminate my membership and confirm via email. I've been a member since 2023.",subscription,high,neutral,english,cancel_subscription
+TKT-04190,"Hello, I hope you're having a good day. Please terminate my membership and confirm via email. How soon will the cancellation take effect?",subscription,low,neutral,english,cancel_subscription
+TKT-04625,I've decided to discontinue my plan. Just want this taken care of.,subscription,urgent,negative,english,cancel_subscription
+TKT-03782,The service didn't work as advertised — I want my money back. I already spoke with someone who said it would be taken care of.,refund,urgent,neutral,english,refund_duplicate_charge
+TKT-01642,The download keeps failing at 80 percent every single time. I've already tried all the basic troubleshooting steps. I'm losing patience with this recurring issue.,technical,high,negative,english,technical_troubleshooting
+TKT-02205,I keep getting 'invalid token' when I click the reset link. I need this sorted out as soon as possible.,account,high,negative,english,reset_password
+TKT-04555,I no longer need the service and want to cancel. I'm currently on the Standard plan. Thank you for processing this promptly...,subscription,medium,neutral,english,cancel_subscription
+TKT-00196,"Hi there, I have a question. I noticed an extra charge on my credit card statement. I was expecting only one charge of $199.99. Please fix this and credit my account Thank you for your time.",billing,medium,positive,english,refund_duplicate_charge
+TKT-00320,"Seriously?? My card was debited twice for a single order. My monthly payment should be $24.99, not double that. Please reverse the duplicate charge.",billing,high,negative,english,refund_duplicate_charge
+TKT-01675,The password reset email never arrives in my inbox. I can't access any of my saved data without logging in.,account,medium,neutral,english,reset_password
+TKT-02606,"dear support team, my parcel has been sitting at the distribution center for a week. i need to know when i'll receive my order.",shipping,low,neutral,english,track_order
+TKT-01501,My data isn't syncing across devices anymore. I've already tried all the basic troubleshooting steps.,technical,medium,negative,english,technical_troubleshooting
+TKT-00277,My bank shows two identical transactions from your company. This is related to order ORD-459042. I expect a refund for the duplicate amount.,billing,high,negative,english,refund_duplicate_charge
+TKT-00053,I've wasted so much time on this already. I just checked my statement and there's a double payement.,billing,medium,negative,english,refund_duplicate_charge
+TKT-00023,I think the system charged me twice when I placed my order!!,billing,medium,negative,english,refund_duplicate_charge
+TKT-00386,Something went wrong with my payement — the amount was deducted two times. The amount is $39.99 each time. I'd like to get my money back for the extra charge!!,billing,high,negative,english,refund_duplicate_charge
+TKT-04442,I don't want to renew my annual plan. I've been a member since 2021.,subscription,medium,neutral,english,cancel_subscription
+TKT-04893,I am extremely frustrated. I've decided to discontinue my plan. I read the cancellation policy but still have questions. How soon will the cancellation take effect?,subscription,high,negative,english,cancel_subscription
+TKT-01112,The interface glitches and buttons don't respond when I tap them. I've already cleared the cache and reinstalled the app.,technical,medium,negative,english,technical_troubleshooting
+TKT-00432,I can't believe this is happening again. I noticed an extra charge on my credit card statement. This happened on last Friday.,billing,high,negative,english,refund_duplicate_charge
+TKT-02516,"Hello, I hope you're having a good day. I paid for express delivery but it's been 9 days already. If it's lost, I need a replacement or refund.",shipping,low,neutral,english,track_order
+TKT-01423,The notification system seems completely broken on my end. Is there a workaround I can try in the meantime?,technical,high,negative,english,technical_troubleshooting
+TKT-02287,The CAPTCHA on the login page keeps failing even when I solve it correctly. I need this sorted out as soon as possible.,account,low,negative,english,resolve_login_issue
+TKT-00668,Seriously?? My credit card was billed double for my recent purchase. Would you be able to reverse the second charge?,billing,high,negative,english,refund_duplicate_charge
+TKT-04157,The product broke within the first day — I need my money back. I returned the item via FedEx on last Monday.,refund,high,negative,english,refund_duplicate_charge
+TKT-01913,NOT HAPPY AT ALL. The password reset email never arrives in my inbox. This is urgent as I need access for work. Is there another way to verify my identity?,account,high,negative,english,reset_password
+TKT-01177,I've wasted so much time on this already. I'm getting a weird error message when I use the application. How can I get this working again?,technical,urgent,negative,english,technical_troubleshooting
+TKT-00549,I am so done with this. The payment for my last order appears duplicated. The duplicate amount is $39.99. I need the extra payment reversed as soon as possible.,billing,high,negative,english,refund_duplicate_charge
+TKT-01816,the captcha on the login page keeps failing even when i solve it correctly,account,low,neutral,english,resolve_login_issue
+TKT-01670,"I'm really upset about this. I get an error saying my account doesn't exist, but I've had it for years. This is urgent as I need access for work.",account,medium,negative,english,resolve_login_issue
+TKT-03252,my order has been 'out for delivery' for three days straight. please provide an updated delivery estimate,shipping,medium,neutral,english,track_order
+TKT-02284,I'm getting a 'session expired' message immediately after logging in. I need this sorted out as soon as possible.,account,high,negative,english,resolve_login_issue
+TKT-00369,"I was charged twice for the same purchase this month. Reference number: ORD-328973. I need this resolved quickly, please.",billing,high,positive,english,refund_duplicate_charge
+TKT-02592,Where is my order? The estimated delivery date has passed. Can you contact the courier on my behalf?,shipping,low,negative,english,track_order
+TKT-01506,"Good afternoon, I was wondering if you could assist me. The application is not responding after the latest update. It works fine on my laptop but not on my desktop computer Looking forward to hearing from you.",technical,high,positive,english,technical_troubleshooting
+TKT-04814,please remove my payement method and cancel the recurring charge. my plan is the premium tier at $9.99/month. please confirm the cancellation in writing.,subscription,low,neutral,english,cancel_subscription
+TKT-03919,My return was APPROVED WEEKS AGO BUT the credit still hasn't appeared. I returned the item via DHL on September 28th. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-01307,I keep getting a connection error when I try to use the app. I've already cleared the cache and reinstalled the app. I'm losing patience with this recurring issue.,technical,high,negative,english,technical_troubleshooting
+TKT-04373,I'm really upset about this. Please remove my payment method and cancel the recurring charge.,subscription,high,negative,english,cancel_subscription
+TKT-03762,My return was approved weeks ago but the credit still hasn't appeared!!,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03431,This is ABSOLUTELY UNACCEPTABLE. I was charged twice by mistake — can I get the extra amount returned? The return tracking shows it was delivered back to your warehouse,refund,high,negative,english,refund_duplicate_charge
+TKT-00487,The same amount was taken from my card twice. This is related to order ORD-870033. This needs to be corrected immediately.,billing,high,negative,english,refund_duplicate_charge
+TKT-04260,The service isn't worth the monthly fee anymore. I need a confirmation email once it's done.,subscription,low,neutral,english,cancel_subscription
+TKT-03147,I paid for express delivery but it's been 9 days already. The tracking number is TRK1647229017. Please provide an updated delivery estimate.,shipping,medium,neutral,english,track_order
+TKT-03473,NOT HAPPY AT ALL. I accidentally purchased the wrong plan and need my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-03707,i was overcharged and need the difference returned to my card. how long will it take to get my money back?,refund,high,negative,english,refund_duplicate_charge
+TKT-01190,The search function in your app returns no results even though I know there should be matches. It works fine on my laptop but not on my Windows laptop. Can you provide a timeline for when this will be resolved?,technical,medium,negative,english,technical_troubleshooting
+TKT-01684,Two-factor authentication isn't sending me the verification code. I've verified my email address already. Please advise on what to do next.,account,high,neutral,english,resolve_login_issue
+TKT-00458,I just checked my statement and there's a double payement. Each charge is for $14.99.,billing,high,neutral,english,refund_duplicate_charge
+TKT-04676,"Honestly, THIS IS the worst experience. I've been trying to cancel for days but can't figure out how.",subscription,medium,negative,english,cancel_subscription
+TKT-02701,"Hello, thank you in advance for your help. The tracking information hasn't been updated in five days.",shipping,urgent,neutral,english,track_order
+TKT-01662,The page loads very slowly and sometimes times out completely. I'm using version 5.1.0 on Samsung tablet.,technical,medium,negative,english,technical_troubleshooting
+TKT-04830,How do I stop my recurring payment? I'm currently on the Starter plan. I don't want any retention offers — just cancel please.,subscription,medium,neutral,english,cancel_subscription
+TKT-03554,"Hi, I hope this message finds you well. I've been waiting over a month for the money to come back to my account. The return tracking shows it was delivered back to your warehouse.",refund,medium,positive,english,refund_duplicate_charge
+TKT-00858,The application is not responding after the latest update. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-00177,i noticed an extra charge on my credit card statement. i was expecting only one charge of $39.99. kindly process a refund for the duplicate transaction...,billing,high,neutral,english,refund_duplicate_charge
+TKT-03631,My return was approved weeks ago but the credit still hasn't appeared. I was charged $19.99 twice. I need the amount credited to my original payment method.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03633,I was charged twice by mistake — can I get the extra amount returned? I already spoke with someone who said it would be taken care of. I need the amount credited to my original payment method.,refund,medium,negative,english,refund_duplicate_charge
+TKT-03758,The duplicate charge on my card needs to be reversed immediately. It's been 13 days since I requested my money back.,refund,medium,negative,english,refund_duplicate_charge
+TKT-04138,The product I recieved is defective and I want my money back. It's been 9 days since I requested my money back. This has gone on too long — I want my money back now.,refund,high,positive,english,refund_duplicate_charge
+TKT-00010,There's a charge I don't recognize that matches my last payment exactly. I would appreciate it if you could refund the extra amount.,billing,high,neutral,english,refund_duplicate_charge
+TKT-04900,can i cancel mid-cycle and get a prorated refund? i need a confirmation email once it's done.,subscription,medium,neutral,english,cancel_subscription
+TKT-04864,not happy at all. the service isn't worth the monthly fee anymore. i don't see a cancel option in my account settings. i need a confirmation email once it's done.,subscription,medium,negative,english,cancel_subscription
+TKT-00843,I keep getting kicked out of the app randomly. My internet connection is fine — other apps work normally. I need this fixed as soon as possible.,technical,medium,negative,english,technical_troubleshooting
+TKT-03344,I am extremely frustrated. The item doesn't match the description and I want my money returned.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03552,"I'VE WASTED SO MUCH TIME on this already. I was charged twice and I want my money back for the extra payment. I have the receipt and can provide proof of the duplicate charge. I want a full reimbursement, not store credit.",refund,high,negative,english,refund_duplicate_charge
+TKT-04407,Can you help me cancel before the next payment cycle? I don't see a cancel option in my account settings. Make sure no further charges are applied.,subscription,low,negative,english,cancel_subscription
+TKT-02389,"Hi, sorry to bother you but I can't log into my account even though I'm using the correct credentials.",account,medium,neutral,english,resolve_login_issue
+TKT-03328,"Greetings, I'm writing to inquire about something. I paid for express delivery but it's been 5 days already. The tracking number is TRK3657806431. Can you check the status of my delivery?",shipping,low,neutral,english,track_order
+TKT-00358,My bank shows two identical transactions from your company. How do I get the extra amount refunded?,billing,high,neutral,english,refund_duplicate_charge
+TKT-00473,My bank shows two identical transactions from your company. This is related to order ORD-142668,billing,medium,neutral,english,refund_duplicate_charge
+TKT-04393,The service isn't worth the monthly fee anymore. I read the cancellation policy but still have questions. I need a confirmation email once it's done.,subscription,medium,negative,english,cancel_subscription
+TKT-02121,MY PASSWORD expired and I can't seem to create a new one.,account,high,negative,english,reset_password
+TKT-03752,My order arrived damaged and I need a full reimbursement. Can you expedite this reimbursement?,refund,medium,negative,english,refund_duplicate_charge
+TKT-04988,I've had it with your service! I want to cancel my monthly plan. My next payment date is earlier this week. I need a confirmation email once it's done.,subscription,high,negative,english,cancel_subscription
+TKT-03363,I NEVER RECEIVED MY ORDER BUT I was charged for it. I have the receipt and can provide proof of the duplicate charge.,refund,medium,negative,english,refund_duplicate_charge
+TKT-02081,I'm really upset about this. How do I change my password? The current one doesnt work. I checked my spam folder but nothing is there. I can't access any of my saved data without logging in.,account,medium,negative,english,reset_password
+TKT-02912,"Hi, I hope this message finds you well. The estimated arrival keeps getting pushed back. I selected express delivery.",shipping,medium,neutral,english,track_order
+TKT-04797,"Hello, thank you in advance for your help. I've been trying to cancel for days but can't figure out how.",subscription,low,positive,english,cancel_subscription
+TKT-02566,I HAVEN'T RECEIVED ANY shipping updates since I placed my order. I chose standard delivery.,shipping,urgent,negative,english,track_order
+TKT-04044,The product I received is defective and I want my money back. I already spoke with someone who said it would be taken care of. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-04051,Seriously?? My order arrived damaged and I need a full reimbursement. It's been 4 days since I requested my money back. How long will it take to get my money back?,refund,urgent,negative,english,refund_duplicate_charge
+TKT-00031,I can't believe this is happening again. I was charged twice for the same purchase this month. I would appreciate it if you could refund the extra amount.,billing,high,negative,english,refund_duplicate_charge
+TKT-00263,My credit card was billed double for my recent purchase. The amount is $59.99 each time. Could you look into this and issue a refund?,billing,medium,negative,english,refund_duplicate_charge
+TKT-03360,I've been waiting over a month for the money to come back to my account. I have the receipt and can provide proof of the duplicate charge. I just want my money returned.,refund,medium,negative,english,refund_duplicate_charge
+TKT-00208,"Good afternoon, I was wondering if you could assist me. The payement for my last order appears duplicated. The transaction date shows earlier this week. Please fix this and credit my account.",billing,high,positive,english,refund_duplicate_charge
+TKT-03632,"Honestly, this is the worst experience. The duplicate charge on my card needs to be reversed immediately. I was charged $29.99 twice",refund,high,negative,english,refund_duplicate_charge
+TKT-01773,"Hi there, I have a question. Can someone manually reset my password? The automated system isn't working for me. My registered email is j***@email.com!!",account,medium,neutral,english,reset_password
+TKT-02404,"Hi there, I have a question. Two-factor authentication isn't sending me the verification code. This is urgent as I need access for work. What steps do I need to take to fix this?",account,medium,neutral,english,resolve_login_issue
+TKT-00827,I see an unauthorized duplicate deduction on my account. This is related to order ORD-739548.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-03343,NOT HAPPY AT ALL. I'm not satisfied with my purchase and would like to return it. I returned the item via FedEx on three days ago. I'm going to dispute the charge with my bank if this isn't resolved.,refund,high,negative,english,refund_duplicate_charge
+TKT-02514,My parcel has been sitting at the distribution center for a week. Can you check the status of my delivery?,shipping,medium,negative,english,track_order
+TKT-04085,I never recieved my order but I was charged for it. I was charged $39.99 twice.,refund,high,negative,english,refund_duplicate_charge
+TKT-03666,The product I received is defective and I want my money back. The order number is ORD-913419. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-01437,"After the recent update, the app doesn't load properly. I've spent hours trying to fix this myself.",technical,high,negative,english,technical_troubleshooting
+TKT-03525,I accidentally purchased the wrong plan and need my money back. I have the receipt and can provide proof of the duplicate charge. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-01219,Your website keeps displaying a blank screen on my browser. The error code I'm seeing is ERR-3890. Is this a known issue? Are you working on a fix?,technical,high,neutral,english,technical_troubleshooting
+TKT-02324,I'm locked out of my account after too many failed attempts...,account,high,neutral,english,resolve_login_issue
+TKT-01944,two-factor authentication isn't sending me the verification code. i've been a customer since 2021.,account,high,neutral,english,resolve_login_issue
+TKT-02850,My order still hasn't arrived and it's been over two weeks. I chose standard delivery.,shipping,urgent,neutral,english,track_order
+TKT-00265,I've been charged an extra amount that I didn't authorize. The transaction date shows three days ago.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-00876,My data isn't syncing across devices anymore. I need this fixed as soon as possible.,technical,high,negative,english,technical_troubleshooting
+TKT-04330,I'm switching to a different provider and need to cancel here. I've been a member since 2022.,subscription,high,negative,english,cancel_subscription
+TKT-00328,I was charged twice for the same purchase this month. Order number ORD-585750 seems to be the one affected. I'd like to get my money back for the extra charge.,billing,high,negative,english,refund_duplicate_charge
+TKT-00730,"Hi, sorry to bother you but Two payments of the same amount showed up on my bank statement today. It appeared on my statement dated last Friday. How do I get the extra amount refunded? I really apreciate it.",billing,medium,positive,english,refund_duplicate_charge
+TKT-03538,I canceled my order but the charge still went through. The return tracking shows it was delivered back to your warehouse. How long will it take to get my money back?,refund,high,negative,english,refund_duplicate_charge
+TKT-02723,Tracking shows my order is in a completely different city. I chose standard delivery.,shipping,medium,neutral,english,track_order
+TKT-03955,I paid twice by mistake and need one payment returned. It's been 11 days since I requested my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-04981,I don't want to renew my annual plan. I've been a member since 2021,subscription,high,neutral,english,cancel_subscription
+TKT-04355,please cancel my auto-renewal — i don't want to be charged again. my plan is the premium tier at $149.99/month. make sure no further charges are applied.,subscription,medium,positive,english,cancel_subscription
+TKT-00577,I've wasted so much time on this already. Could you check my recent transactions? There seem to be two identical ones. Kindly process a refund for the duplicate transaction.,billing,high,negative,english,refund_duplicate_charge
+TKT-00217,this is the third time i'm reaching out about the same issue. looks like the payment went through two times. it appeared on my statement dated september 28th.,billing,high,negative,english,refund_duplicate_charge
+TKT-04506,I've decided to discontinue my plan. I read the cancellation policy but still have questions. I don't want any retention offers — just cancel please.,subscription,medium,negative,english,cancel_subscription
+TKT-00530,I can't believe this is happening again. I think the system charged me twice when I placed my order. The duplicate amount is $19.99. Please investigate and process a correction.,billing,high,negative,english,refund_duplicate_charge
+TKT-03204,I placed an order on on the 15th and it still hasn't been delivered. Can you contact the courier on my behalf?,shipping,low,neutral,english,track_order
+TKT-03211,"dear support team, the estimated arrival keeps getting pushed back.",shipping,medium,positive,english,track_order
+TKT-02344,This is ridiculous. MY ACCOUNT SHOWS AS deactivated but I never deactivated it. Is there another way to verify my identity?,account,urgent,negative,english,resolve_login_issue
+TKT-02981,I'm worried my package got lost in transit. I chose standard delivery. I'd like to file a complaint about the delivery service.,shipping,high,negative,english,track_order
+TKT-00894,I keep getting a connection error when I try to use the app. I've tried restarting my iPhone but the problem persists. Please escalate this if necessary.,technical,high,negative,english,technical_troubleshooting
+TKT-02880,This is ridiculous. My package seems to be stuck in transit. I've contacted the courier but they redirected me to you.,shipping,medium,negative,english,track_order
+TKT-04550,I am so done with this. Please cancel my auto-renewal — I don't want to be charged again. I don't see a cancel option in my account settings!!,subscription,low,negative,english,cancel_subscription
+TKT-04151,This is the third time I'm reaching out about the same issue. I paid twice by mistake and need one payment returned. I have the receipt and can provide proof of the duplicate charge. This has gone on too long — I want my money back now.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-02115,I HAVEN'T BEEN able to access my account since last week. I'd appreciate a quick resolution.,account,medium,negative,english,resolve_login_issue
+TKT-04394,Please remove my payement method and cancel the recurring charge. I don't see a cancel option in my account settings. Please confirm the cancellation in writing.,subscription,medium,neutral,english,cancel_subscription
+TKT-01831,Seriously?? Two-factor authentication isn't sending me the verification code. I checked my spam folder but nothing is there.,account,medium,negative,english,resolve_login_issue
+TKT-01195,"After the recent update, the app doesnt load properly. I attached a screenshot but can't include it here. Can you provide a timeline for when this will be resolved?",technical,high,neutral,english,technical_troubleshooting
+TKT-00848,I keep getting kicked out of the app randomly. The error code I'm seeing is ERR-4130.,technical,high,negative,english,technical_troubleshooting
+TKT-03022,I want to know why my package is taking so long. My order number is ORD-946490. Can you check the status of my delivery?,shipping,high,negative,english,track_order
+TKT-01694,"honestly, this is the worst experience. i can't sign in from my new phone. please advise on what to do next.",account,high,negative,english,resolve_login_issue
+TKT-04734,I'm switching to a different provider and need to cancel here. I read the cancellation policy but still have questions. I don't want any retention offers — just cancel please.,subscription,low,neutral,english,cancel_subscription
+TKT-04244,i want to unsubscribe from the premium tier. i'm currently on the pro plan,subscription,urgent,negative,english,cancel_subscription
+TKT-03441,I was charged twice and I want my money back for the extra payment. I already spoke with someone who said it would be taken care of. I'm going to dispute the charge with my bank if this isn't resolved.,refund,high,negative,english,refund_duplicate_charge
+TKT-04098,I accidentally purchased the wrong plan and need my money back. The order number is ORD-868616. I'm going to dispute the charge with my bank if this isn't resolved.,refund,medium,negative,english,refund_duplicate_charge
+TKT-03064,not happy at all. tracking shows my order is in a completely different city. i chose standard delivery. this delay is really inconvenient.,shipping,medium,negative,english,track_order
+TKT-02639,i've wasted so much time on this already. my package seems to be stuck in transit.,shipping,medium,negative,english,track_order
+TKT-04621,NOT HAPPY AT ALL. Can you help me cancel before the next payement cycle?,subscription,high,negative,english,cancel_subscription
+TKT-03099,I want to know why my package is taking so long. My delivery address is correct — I've double checked. I'm very disappointed with the delivery experience.,shipping,medium,negative,english,track_order
+TKT-00308,"Honestly, this is the worst experience. Something went wrong with my payment — the amount was deducted two times. This is related to order ORD-525964.",billing,urgent,negative,english,refund_duplicate_charge
+TKT-00519,I noticed an extra charge on my credit card statement.,billing,medium,negative,english,refund_duplicate_charge
+TKT-02725,The estimated arrival keeps getting pushed back. Please provide an updated delivery estimate.,shipping,medium,negative,english,track_order
+TKT-01615,"Hi there, I have a question. The system keeps showing error code 503 when I try to access my data. I'm using version 5.1.0 on desktop computer. I rely on this app daily and can't afford downtime.",technical,medium,neutral,english,technical_troubleshooting
+TKT-03904,THIS IS RIDICULOUS. THE SERVICE didn't work as advertised — I want my money back. The return tracking shows it was delivered back to your warehouse. Can you expedite this reimbursement?,refund,low,negative,english,refund_duplicate_charge
+TKT-00534,this is ridiculous. looks like the payment went through two times. can you resolve this? i shouldn't have been charged twice.,billing,high,negative,english,refund_duplicate_charge
+TKT-00686,"Honestly, this is the worst experience. I'm seeing a repeated charge that shouldn't be there. Both transactions show $199.99. Can you resolve this? I shouldn't have been charged twice.",billing,urgent,negative,english,refund_duplicate_charge
+TKT-03560,My order arrived damaged and I need a full reimbursement. I already spoke with someone who said it would be taken care of. This has gone on too long — I want my money back now.,refund,high,neutral,english,refund_duplicate_charge
+TKT-03453,the product broke within the first day — i need my money back. the amount i need returned is $24.99. please confirm when the reversal has been issued.,refund,medium,positive,english,refund_duplicate_charge
+TKT-00603,NOT HAPPY AT ALL. My card was debited twice for a single order. This is related to order ORD-301314!!,billing,high,negative,english,refund_duplicate_charge
+TKT-01154,I am extremely frustrated. The application is not responding after the latest update. Can you provide a timeline for when this will be resolved?,technical,high,negative,english,technical_troubleshooting
+TKT-02485,My password expired and I can't seem to create a new one. Is there another way to verify my identity?,account,urgent,neutral,english,reset_password
+TKT-01990,Can someone manually reset my password? The automated system isn't working for me. Please help me regain acess.,account,high,neutral,english,reset_password
+TKT-02271,I haven't been able to access my account since last week. I've verified my email address already. I can't access any of my saved data without logging in.,account,high,negative,english,resolve_login_issue
+TKT-04870,The service isn't worth the monthly fee anymore. My plan is the Pro tier at $19.99/month. Make sure no further charges are applied.,subscription,medium,neutral,english,cancel_subscription
+TKT-00821,I'm seeing a repeated charge that shouldn't be there. I was expecting only one charge of $14.99.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-00874,"Greetings, I'm writing to inquire about something. After the recent update, the app doesn't load properly. Other users in my household are experiencing the same thing. I've spent hours trying to fix this myself.",technical,urgent,neutral,english,technical_troubleshooting
+TKT-02680,"The tracking information hasn't been updated in five days. If it's lost, I need a replacement or refund.",shipping,high,neutral,english,track_order
+TKT-02406,"every time i try to sign in, it says 'invalid credentials'. this is becoming very frustrating.",account,high,negative,english,resolve_login_issue
+TKT-02310,THE PASSWORD RESET EMAIL never arrives in my inbox.,account,medium,negative,english,reset_password
+TKT-00116,My credit card was billed double for my recent purchase. I would appreciate it if you could refund the extra amount.,billing,high,negative,english,refund_duplicate_charge
+TKT-02357,I'm really upset about this. I requested a password reset but didn't get any email. I've verified my email address already.,account,high,negative,english,reset_password
+TKT-02801,I've had it with your service! I paid for express delivery but it's been 5 days already. This delay is really inconvenient.,shipping,medium,negative,english,track_order
+TKT-01836,I ENTER MY EMAIL AND password but nothing happens.,account,high,negative,english,resolve_login_issue
+TKT-01446,"Hi there, I have a question. The software freezes whenever I try to save my work!!",technical,high,neutral,english,technical_troubleshooting
+TKT-04250,I've been trying to cancel for days but can't figure out how. Thank you for processing this promptly!!,subscription,high,negative,english,cancel_subscription
+TKT-00563,Something went wrong with my payment — the amount was deducted two times.,billing,medium,negative,english,refund_duplicate_charge
+TKT-04221,"Greetings, I'm writing to inquire about something. I tried to cancel online but the button doesn't seem to work. I read the cancellation policy but still have questions. I don't want any retention offers — just cancel please Thanks in advance!",subscription,urgent,positive,english,cancel_subscription
+TKT-04468,I signed up by mistake and need to cancel right away. Will I still have access until the end of the current period?,subscription,low,negative,english,cancel_subscription
+TKT-03925,THIS IS ABSOLUTELY UNACCEPTABLE. My return was approved weeks ago but the credit still hasn't appeared. It's been 6 days since I requested my money back. I'm going to dispute the charge with my bank if this isn't resolved!!,refund,high,negative,english,refund_duplicate_charge
+TKT-03173,I placed an order on a few days ago and it still hasn't been delivered. My delivery address is correct — I've double checked.,shipping,medium,negative,english,track_order
+TKT-02909,The delivery was supposed to arrive by on the 15th. My order number is ORD-334003.,shipping,medium,negative,english,track_order
+TKT-03239,I paid for express delivery but it's been 9 days already. This is a gift and I needed it by a specific date. Please provide an updated delivery estimate.,shipping,medium,negative,english,track_order
+TKT-04849,I'd like to end my membership effective immediately. How soon will the cancellation take effect?,subscription,low,positive,english,cancel_subscription
+TKT-04191,I tried to cancel online but the button doesn't seem to work.,subscription,medium,neutral,english,cancel_subscription
+TKT-03358,"The service didn't work as advertised — I want my money back. I have the receipt and can provide proof of the duplicate charge. I want a full reimbursement, not store credit.",refund,high,negative,english,refund_duplicate_charge
+TKT-04803,Please cancel my auto-renewal — I don't want to be charged again. I don't want any retention offers — just cancel please!!,subscription,medium,neutral,english,cancel_subscription
+TKT-03114,"I'm worried my package got lost in transit. My delivery address is correct — I've double checked. If it's lost, I need a replacement or refund",shipping,high,positive,english,track_order
+TKT-00720,There are duplicate charges showing on my card. Order number ORD-304509 seems to be the one affected.,billing,high,negative,english,refund_duplicate_charge
+TKT-00832,I just checked my statement and there's a double payment. Each charge is for $14.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-01669,I enter my email and password but nothing happens. I need this sorted out as soon as possible.,account,high,neutral,english,resolve_login_issue
+TKT-02017,My account shows as deactivated but I never deactivated it. I checked my spam folder but nothing is there.,account,medium,neutral,english,resolve_login_issue
+TKT-02906,I recieved a delivery confirmation but the package isn't here. I selected express delivery.,shipping,medium,neutral,english,track_order
+TKT-01368,The app keeps crashing every time I try to open it. I've spent hours trying to fix this myself.,technical,high,negative,english,technical_troubleshooting
+TKT-00774,Two payments of the same amount showed up on my bank statement today. Can you resolve this? I shouldn't have been charged twice.,billing,high,negative,english,refund_duplicate_charge
+TKT-01395,My device won't connect to your service properly. The error code I'm seeing is ERR-6704. Is this a known issue? Are you working on a fix?,technical,medium,negative,english,technical_troubleshooting
+TKT-03016,This is absolutely unacceptable. Is there a way to expedite my delivery?,shipping,high,negative,english,track_order
+TKT-00366,Looks like the payment went through two times. I was expecting only one charge of $29.99. Would you be able to reverse the second charge?,billing,high,neutral,english,refund_duplicate_charge
+TKT-04416,I need to downgrade or cancel my current plan. I don't see a cancel option in my account settings.,subscription,high,neutral,english,cancel_subscription
+TKT-03041,My parcel has been sitting at the distribution center for a week. I selected express delivery.,shipping,high,neutral,english,track_order
+TKT-01078,"Hi, sorry to bother you but The interface glitches and buttons don't respond when I tap them. I've tried using different browsers but same issue.",technical,medium,neutral,english,technical_troubleshooting
+TKT-04695,I've decided to discontinue my plan. I don't see a cancel option in my account settings. Just want this taken care of.,subscription,medium,negative,english,cancel_subscription
+TKT-00553,The payment for my last order appears duplicated. Reference number: ORD-376722,billing,medium,negative,english,refund_duplicate_charge
+TKT-04615,please terminate my membership and confirm via email. my plan is the premium tier at $9.99/month. can you also delete my stored payment information?,subscription,high,neutral,english,cancel_subscription
+TKT-04585,how DO I STOP MY recurring payment? please confirm the cancellation in writing.,subscription,high,negative,english,cancel_subscription
+TKT-03221,This is ridiculous. My order still hasn't arrived and it's been over two weeks. I selected express delivery.,shipping,high,negative,english,track_order
+TKT-02362,I can't remember my password and need to regain access. I've already tried from multiple devices.,account,high,neutral,english,reset_password
+TKT-00072,"looks like the payment went through two times. i need this resolved quickly, please.",billing,urgent,negative,english,refund_duplicate_charge
+TKT-03316,I need to track my package but the tracking number doesn't work. I ordered on earlier this week. Can you contact the courier on my behalf?,shipping,urgent,negative,english,track_order
+TKT-02346,Single sign-on with Google isn't working for my account anymore. I've verified my email adress already. I can't access any of my saved data without logging in.,account,low,neutral,english,resolve_login_issue
+TKT-03267,My parcel has been sitting at the distribution center for a week. I selected express delivery. I'd like to file a complaint about the delivery service.,shipping,medium,negative,english,track_order
+TKT-00262,"Hi, sorry to bother you but My bank shows two identical transactions from your company. Both transactions show $9.99. How do I get the extra amount refunded?",billing,high,neutral,english,refund_duplicate_charge
+TKT-03245,I haven't received any shipping updates since I placed my order. My order number is ORD-630431.,shipping,medium,neutral,english,track_order
+TKT-03642,I paid twice by mistake and need one payement returned. I returned the item via the courier on September 28th. Can you expedite this reimbursement?,refund,high,negative,english,refund_duplicate_charge
+TKT-00887,The app is super slow and basically unusable right now.,technical,high,negative,english,technical_troubleshooting
+TKT-04455,please cancel my auto-renewal — i don't want to be charged again. just want this taken care of!!,subscription,medium,neutral,english,cancel_subscription
+TKT-03472,I accidentally purchased the wrong plan and need my money back. I'm going to dispute the charge with my bank if this isn't resolved.,refund,medium,negative,english,refund_duplicate_charge
+TKT-00849,The page loads very slowly and sometimes times out completely.,technical,high,negative,english,technical_troubleshooting
+TKT-01865,I can't log into my account even though I'm using the correct credentials. My registered email is m***@yahoo.com. Is there another way to verify my identity?,account,medium,negative,english,resolve_login_issue
+TKT-03982,The service didn't work as advertised — I want my money back. The amount I need returned is $149.99.,refund,low,negative,english,refund_duplicate_charge
+TKT-02920,My order still hasn't arrived and it's been over two weeks. Is there any way to speed this up?,shipping,low,neutral,english,track_order
+TKT-00590,There are duplicate charges showing on my card. The duplicate amount is $29.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-00345,I think the system charged me twice when I placed my order. This is related to order ORD-132959. Please reverse the duplicate charge.,billing,high,neutral,english,refund_duplicate_charge
+TKT-03476,"Hi, sorry to bother you but My return was approved weeks ago but the credit still hasn't appeared. The amount I need returned is $39.99. I need the amount credited to my original payment method Thanks so much.",refund,urgent,positive,english,refund_duplicate_charge
+TKT-01290,your website keeps DISPLAYING A BLANK SCREEN ON my browser. i attached a screenshot but can't include it here.,technical,high,negative,english,technical_troubleshooting
+TKT-02291,"Greetings, I'm writing to inquire about something. The login page just keeps refreshing without letting me in. My registered email is m***@yahoo.com.",account,medium,neutral,english,resolve_login_issue
+TKT-01792,I enter my email and password but nothing happens. I can provide ID verification if needed. I'd apreciate a quick resolution.,account,high,neutral,english,resolve_login_issue
+TKT-03107,My order still hasn't arrived and it's been over two weeks. I selected express delivery. I'd like to file a complaint about the delivery service.,shipping,urgent,negative,english,track_order
+TKT-02686,this is ridiculous. my parcel has been sitting at the distribution center for a week. i need to know when i'll receive my order.,shipping,low,negative,english,track_order
+TKT-02148,How do I change my password? The current one doesn't work. I've verified my email address already. Please advise on what to do next.,account,high,negative,english,reset_password
+TKT-04837,"Hello, thank you in advance for your help. Please cancel my auto-renewal — I don't want to be charged again.",subscription,medium,neutral,english,cancel_subscription
+TKT-02570,I placed an order on last Monday and it still hasn't been delivered. My order number is ORD-876025. Can you check the status of my delivery?,shipping,medium,neutral,english,track_order
+TKT-03400,"My return was approved weeks ago but the credit still hasn't appeared. I have the receipt and can provide proof of the duplicate charge. I want a full reimbursement, not store credit.",refund,urgent,neutral,english,refund_duplicate_charge
+TKT-04290,"hi, i hope this message finds you well. how do i stop my recurring payment? my next payment date is october 1st.",subscription,high,neutral,english,cancel_subscription
+TKT-01315,the app keeps crashing every time i try to open it. i'm using version 4.0.0 on samsung tablet. i need this fixed as soon as possible.,technical,medium,negative,english,technical_troubleshooting
+TKT-01463,The app is super slow and basically unusable right now. I've tried restarting my iPad but the problem persists!!,technical,high,negative,english,technical_troubleshooting
+TKT-03081,I haven't received any shipping updates since I placed my order. My delivery address is correct — I've double checked. Can you check the status of my delivery?,shipping,medium,negative,english,track_order
+TKT-01883,The login button is greyed out and I can't click it. I've been a customer since 2024.,account,medium,negative,english,resolve_login_issue
+TKT-04318,Please cancel my auto-renewal — I don't want to be charged again. I read the cancellation policy but still have questions. Can you also delete my stored payment information?,subscription,low,negative,english,cancel_subscription
+TKT-04099,The product I recieved is defective and I want my money back. The order number is ORD-870038.,refund,low,positive,english,refund_duplicate_charge
+TKT-02458,How do I change my password? The current one doesn't work. I've already tried from multiple devices. What steps do I need to take to fix this?,account,high,neutral,english,reset_password
+TKT-03281,I placed an order on a few days ago and it still hasn't been delivered. I selected express delivery. I'm very disappointed with the delivery experience!!,shipping,medium,neutral,english,track_order
+TKT-02587,I haven't received any shipping updates since I placed my order.,shipping,medium,neutral,english,track_order
+TKT-04437,i need to downgrade or cancel my current plan. thank you for processing this promptly.,subscription,urgent,neutral,english,cancel_subscription
+TKT-04918,This is ridiculous. I want to make sure I won't be charged next month. Can you also delete my stored payement information?,subscription,medium,negative,english,cancel_subscription
+TKT-02378,"Greetings, I'm writing to inquire about something. I'm locked out because I forgot my password. What steps do I need to take to fix this?",account,medium,neutral,english,reset_password
+TKT-00654,could you check my recent transactions? there seem to be two identical ones. reference number: ord-469945.,billing,high,negative,english,refund_duplicate_charge
+TKT-01465,"Hi, sorry to bother you but Your website keeps displaying a blank screen on my browser. My internet connection is fine — other apps work normally.",technical,medium,neutral,english,technical_troubleshooting
+TKT-00092,I've wasted so much time on this already. My bank shows two identical transactions from your company. Could you look into this and issue a refund?,billing,urgent,negative,english,refund_duplicate_charge
+TKT-01318,I keep getting kicked out of the app randomly. This has been going on for 11 days now. Is this a known issue? Are you working on a fix?,technical,high,positive,english,technical_troubleshooting
+TKT-02467,Single sign-on with Google isn't working for my account anymore. My username is maria_garcia.,account,high,negative,english,resolve_login_issue
+TKT-04335,I tried to cancel online but the button doesn't seem to work. I'm currently on the Premium plan. Will I still have access until the end of the current period?,subscription,low,neutral,english,cancel_subscription
+TKT-02573,MY ORDER HAS been 'out for delivery' for three days straight. I ordered on three days ago.,shipping,medium,negative,english,track_order
+TKT-02833,I placed an order on last Friday and it still hasn't been delivered. I chose standard delivery!!,shipping,medium,negative,english,track_order
+TKT-02335,I'm locked out because I forgot my password. I've verified my email address already. I'd appreciate a quick resolution.,account,urgent,neutral,english,reset_password
+TKT-02420,"I GET AN ERROR SAYING my account doesn't exist, but I've had it for years.",account,urgent,negative,english,resolve_login_issue
+TKT-03069,The delivery was supposed to arrive by last Monday. I ordered on yesterday. Can you contact the courier on my behalf?,shipping,high,neutral,english,track_order
+TKT-02827,my order still hasn't arrived and it's been over two weeks. i've contacted the courier but they redirected me to you.,shipping,medium,negative,english,track_order
+TKT-01273,I can't get the app to work on my phone since yesterday. The error code I'm seeing is ERR-9381. I rely on this app daily and can't afford downtime.,technical,high,negative,english,technical_troubleshooting
+TKT-00035,Something went wrong with my payment — the amount was deducted two times. The duplicate amount is $9.99. Kindly process a refund for the duplicate transaction.,billing,high,neutral,english,refund_duplicate_charge
+TKT-03705,I never received my order but I was charged for it. I was charged $149.99 twice. I just want my money returned.,refund,high,negative,english,refund_duplicate_charge
+TKT-01711,"Hello, thank you in advance for your help. I keep getting 'invalid token' when I click the reset link. I've verified my email address already. I can't access any of my saved data without logging in.",account,medium,neutral,english,reset_password
+TKT-02105,I've wasted so much time on this already. My temporary password stopped working before I could set a new one. My username is jsmith42.,account,high,negative,english,reset_password
+TKT-00259,My bank shows two identical transactions from your company. Could you look into this and issue a refund?,billing,low,negative,english,refund_duplicate_charge
+TKT-03589,I never received my order but I was charged for it. I have the receipt and can provide proof of the duplicate charge. This has gone on too long — I want my money back now.,refund,high,negative,english,refund_duplicate_charge
+TKT-03434,The duplicate charge on my card needs to be reversed immediatly. The return tracking shows it was delivered back to your warehouse.,refund,low,negative,english,refund_duplicate_charge
+TKT-04242,i'd like to end my membership effective immediately. just want this taken care of.,subscription,medium,neutral,english,cancel_subscription
+TKT-03596,I paid twice by mistake and need one payment returned,refund,urgent,negative,english,refund_duplicate_charge
+TKT-00121,your system appears to have processed my payment twice. each charge is for $199.99.,billing,high,neutral,english,refund_duplicate_charge
+TKT-01532,the search function in your app returns no results even though i know there should be matches. i attached a screenshot but can't include it here. is this a known issue? are you working on a fix?,technical,high,negative,english,technical_troubleshooting
+TKT-01636,My device won't connect to your service properly. Can someone please help me resolve this?,technical,high,negative,english,technical_troubleshooting
+TKT-01547,the page loads very slowly and sometimes times out completely. i'm losing patience with this recurring issue!!,technical,medium,neutral,english,technical_troubleshooting
+TKT-03089,"My package seems to be stuck in transit. If it's lost, I need a replacement or refund!!",shipping,high,negative,english,track_order
+TKT-02653,"Honestly, this is the worst experiance. My order still hasn't arrived and it's been over two weeks. My order number is ORD-910247. Can you contact the courier on my behalf?",shipping,urgent,negative,english,track_order
+TKT-01206,not happy at all. i can't get the app to work on my phone since yesterday. i attached a screenshot but can't include it here. this is really affecting my work.,technical,medium,negative,english,technical_troubleshooting
+TKT-04193,I want to make sure I won't be charged next month. My plan is the Starter tier at $99.99/month. I don't want any retention offers — just cancel please.,subscription,urgent,neutral,english,cancel_subscription
+TKT-01936,"Seriously?? I get an error saying my account doesn't exist, but I've had it for years.",account,high,negative,english,resolve_login_issue
+TKT-01062,I am extremely frustrated. I can't get the app to work on my phone since yesterday. I've already cleared the cache and reinstalled the app. Is there a workaround I can try in the meantime?,technical,medium,negative,english,technical_troubleshooting
+TKT-00367,"This is ridiculous. I was charged twice for the same purchase this month. My monthly payment should be $59.99, not double that. I need the extra payment reversed as soon as possible.",billing,high,negative,english,refund_duplicate_charge
+TKT-03160,I've wasted so much time on this already. I need to track my package but the tracking number doesnt work. I've contacted the courier but they redirected me to you. I'm very disappointed with the delivery experience.,shipping,high,negative,english,track_order
+TKT-00637,Your system appears to have processed my payement twice. This happened on last Monday. How do I get the extra amount refunded?,billing,high,neutral,english,refund_duplicate_charge
+TKT-00811,There's a charge I don't recognize that matches my last payment exactly. This happened on three days ago.,billing,urgent,negative,english,refund_duplicate_charge
+TKT-02536,I am extremely frustrated. The tracking information hasn't been updated in five days. I need to know when I'll receive my order.,shipping,high,negative,english,track_order
+TKT-04745,I want to stop all future charges related to my plan. Make sure no further charges are applied!!,subscription,medium,negative,english,cancel_subscription
+TKT-02147,"Hi, I hope this message finds you well. The login button is greyed out and I can't click it. I've verified my email address already. I need this sorted out as soon as possible.",account,low,neutral,english,resolve_login_issue
+TKT-00862,I can't get the app to work on my phone since yesterday. Other users in my household are experiencing the same thing.,technical,high,negative,english,technical_troubleshooting
+TKT-00674,Could you check my recent transactions? There seem to be two identical ones. Order number ORD-791715 seems to be the one affected. I want the overcharge refunded to my card.,billing,high,negative,english,refund_duplicate_charge
+TKT-00926,My device won't connect to your service properly.,technical,high,negative,english,technical_troubleshooting
+TKT-03314,Is there a way to expedite my delivery? I chose standard delivery!!,shipping,high,negative,english,track_order
+TKT-00738,I'm seeing a repeated charge that shouldn't be there. Reference number: ORD-409438. Can you resolve this? I shouldn't have been charged twice.,billing,high,neutral,english,refund_duplicate_charge
+TKT-01884,This is the third time I'm reaching out about the same issue. I'm getting a 'session expired' message immediately after logging in. I can provide ID verification if needed. I need this sorted out as soon as possible.,account,high,negative,english,resolve_login_issue
+TKT-03352,"I've had it with your service! The service didn't work as advertised — I want my money back. The order number is ORD-299979. I want a full reimbursement, not store credit",refund,low,negative,english,refund_duplicate_charge
+TKT-01400,NOT HAPPY AT ALL. The app is super slow and basically unusable right now. I've already cleared the cache and reinstalled the app. I'd appreciate any help with this problem.,technical,high,negative,english,technical_troubleshooting
+TKT-00834,I was charged twice for the same purchase this month. The duplicate amount is $19.99.,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-01148,My data isn't syncing across devices anymore. I'm using version 5.1.0 on iPad.,technical,medium,negative,english,technical_troubleshooting
+TKT-02971,"the delivery was supposed to arrive by three days ago. i selected express delivery. if it's lost, i need a replacement or refund.",shipping,medium,negative,english,track_order
+TKT-03846,"The service didn't work as advertised — I want my money back. I was charged $99.99 twice. I want a full reimbursement, not store credit.",refund,low,negative,english,refund_duplicate_charge
+TKT-01019,This is absolutely unacceptable. The interface glitches and buttons don't respond when I tap them. I rely on this app daily and can't afford downtime.,technical,high,negative,english,technical_troubleshooting
+TKT-03072,i placed an order on three days ago and it still hasn't been delivered. i chose standard delivery.,shipping,high,negative,english,track_order
+TKT-00041,Something went wrong with my payement — the amount was deducted two times. Can you resolve this? I shouldn't have been charged twice.,billing,medium,positive,english,refund_duplicate_charge
+TKT-03258,My parcel has been sitting at the distribution center for a week. This delay is really inconvenient.,shipping,high,neutral,english,track_order
+TKT-00383,Seriously?? Your system appears to have processed my payment twice. The amount is $14.99 each time. I want the overcharge refunded to my card!!,billing,medium,negative,english,refund_duplicate_charge
+TKT-02782,"Hi, sorry to bother you but I want to know why my package is taking so long. This is a gift and I needed it by a specific date. I need to know when I'll receive my order.",shipping,high,neutral,english,track_order
+TKT-03539,I am extremely frustrated. I've been waiting over a month for the money to come back to my account. The amount I need returned is $49.99.,refund,high,negative,english,refund_duplicate_charge
+TKT-03446,The duplicate charge on my card needs to be reversed immediately!!,refund,urgent,neutral,english,refund_duplicate_charge
+TKT-04648,Please remove my payement method and cancel the recurring charge.,subscription,low,negative,english,cancel_subscription
+TKT-02319,"Good morning, I'd like some help please. My account shows as deactivated but I never deactivated it. I've been a customer since 2021. Please advise on what to do next.",account,medium,neutral,english,resolve_login_issue
+TKT-02740,This is ridiculous. The courier says they delivered it but I never received anything. I need to know when I'll receive my order.,shipping,medium,negative,english,track_order
+TKT-01358,I keep getting a connection error when I try to use the app. It works fine on my laptop but not on my iPad. I rely on this app daily and can't afford downtime.,technical,medium,negative,english,technical_troubleshooting
+TKT-04750,I've been trying to cancel for days but can't figure out how. I read the cancellation policy but still have questions. Just want this taken care of.,subscription,medium,neutral,english,cancel_subscription
+TKT-02528,SERIOUSLY?? MY PARCEL HAS been sitting at the distribution center for a week.,shipping,low,negative,english,track_order
+TKT-04801,Please cancel my auto-renewal — I don't want to be charged again. My plan is the Starter tier at $99.99/month.,subscription,medium,negative,english,cancel_subscription
+TKT-02955,Can you tell me where my order is right now? My order number is ORD-145582. I need someone to investigate what happened to my package.,shipping,medium,neutral,english,track_order
+TKT-00268,I just checked my statement and there's a double payment. I was expecting only one charge of $24.99.,billing,medium,neutral,english,refund_duplicate_charge
+TKT-02817,I've had it with your service! I paid for express delivery but it's been 5 days already. Please provide an updated delivery estimate.,shipping,high,negative,english,track_order
+TKT-03276,My neighbor SAYS NO DELIVERY ATTEMPT WAS made at my address. I chose standard delivery. Can you check the status of my delivery?,shipping,high,negative,english,track_order
+TKT-01709,i'm really upset about this. my temporary password stopped working before i could set a new one. my registered email is a***@gmail.com. please help me regain access.,account,medium,negative,english,reset_password
+TKT-01468,The search function in your app returns no results even though I know there should be matches. Please escalate this if necessary.,technical,high,neutral,english,technical_troubleshooting
+TKT-03672,i was overcharged and need the difference returned to my card. is there anything else you need from me to process this?,refund,high,negative,english,refund_duplicate_charge
+TKT-01610,This is ridiculous. My device won't connect to your service properly. How can I get this working again?,technical,low,negative,english,technical_troubleshooting
+TKT-03481,I can't believe this is happening again. The quality of what I received doesn't justify the price. Please return my payment as soon as possible.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03671,The item doesn't match the description and I want my money returned. I returned the item via USPS on two days ago.,refund,high,negative,english,refund_duplicate_charge
+TKT-00812,there are duplicate charges showing on my card. please investigate and process a correction,billing,high,neutral,english,refund_duplicate_charge
+TKT-00892,I can't believe this is happening again. Something is broken in the app — features that used to work don't anymore. This has been going on for 5 days now. I've spent hours trying to fix this myself.,technical,medium,negative,english,technical_troubleshooting
+TKT-01445,i'm experiencing constant buffering and lag on your platform. i've already tried all the basic troubleshooting steps. i need this fixed as soon as possible.,technical,high,neutral,english,technical_troubleshooting
+TKT-02340,"Hi, sorry to bother you but The login button is greyed out and I can't click it.",account,medium,neutral,english,resolve_login_issue
+TKT-01648,"Hello, I hope you're having a good day. The app keeps crashing every time I try to open it.",technical,medium,neutral,english,technical_troubleshooting
+TKT-03638,I've HAD IT WITH your service! I paid twice by mistake and need one payement returned. I have the receipt and can provide proof of the duplicate charge.,refund,high,negative,english,refund_duplicate_charge
+TKT-03389,The quality of what I received doesn't justify the price. It's been 10 days since I requested my money back. This has gone on too long — I want my money back now.,refund,high,negative,english,refund_duplicate_charge
+TKT-00598,"My credit card was billed double for my recent purchase. My monthly payement should be $59.99, not double that. Please reverse the duplicate charge!!",billing,medium,neutral,english,refund_duplicate_charge
+TKT-04671,Can you help me cancel before the next payment cycle? I read the cancellation policy but still have questions. I need a confirmation email once it's done.,subscription,medium,positive,english,cancel_subscription
+TKT-01304,I keep getting kicked out of the app randomly. I've already tried all the basic troubleshooting steps. I'd appreciate any help with this problem.,technical,medium,negative,english,technical_troubleshooting
+TKT-04702,"Hello, thank you in advance for your help. How do I stop my recurring payment? My plan is the Basic tier at $199.99/month. Thank you for processing this promptly.",subscription,low,neutral,english,cancel_subscription
+TKT-01036,The notification system seems completely broken on my end. My internet connection is fine — other apps work normally.,technical,high,negative,english,technical_troubleshooting
+TKT-03263,I need to track my package but the tracking number doesnt work. This delay is really inconvenient.,shipping,medium,negative,english,track_order
+TKT-01528,I am extremely frustrated. The app is super slow and basically unusable right now. This has been going on for 9 days now.,technical,medium,negative,english,technical_troubleshooting
+TKT-01962,I enter my email and password but nothing happens. I checked my spam folder but nothing is there.,account,high,neutral,english,resolve_login_issue
+TKT-02176,I'm locked out of my account after too many failed attempts. My username is user12345. I can't access any of my saved data without logging in.,account,high,negative,english,resolve_login_issue
+TKT-00879,The page loads very slowly and sometimes times out completely. Other users in my household are experiencing the same thing. I need this fixed as soon as possible,technical,high,positive,english,technical_troubleshooting
+TKT-00978,the interface glitches and buttons don't respond when i tap them. i've tried restarting my samsung tablet but the problem persists,technical,high,negative,english,technical_troubleshooting
+TKT-02669,I received a delivery confirmation but the package isn't here!!,shipping,urgent,neutral,english,track_order
+TKT-04777,"Hello, I hope you're having a good day. I don't want to renew my annual plan. I read the cancellation policy but still have questions. Please confirm the cancellation in writing.",subscription,medium,neutral,english,cancel_subscription
+TKT-00236,I think the system charged me twice when I placed my order. I noticed this when I checked my statement on September 28th. Can you resolve this? I shouldn't have been charged twice...,billing,urgent,neutral,english,refund_duplicate_charge
+TKT-03934,This is the third time I'm reaching out about the same issue. I accidentally purchased the wrong plan and need my money back. I returned the item via UPS on a few days ago.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-04029,"My order arrived damaged and I need a full reimbursement. I already spoke with someone who said it would be taken care of. I want a full reimbursement, not store credit.",refund,medium,neutral,english,refund_duplicate_charge
+TKT-03684,I was charged twice and I want my money back for the extra payment. It's been 13 days since I requested my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-03143,I placed an order on last Friday and it still hasn't been delivered.,shipping,medium,neutral,english,track_order
+TKT-02980,My neighbor says no delivery attempt was made at my address. My order number is ORD-827871. I'm very disappointed with the delivery experience.,shipping,low,neutral,english,track_order
+TKT-04812,"Hello, thank you in advance for your help. The service isn't worth the monthly fee anymore. I've been a member since 2024. I need a confirmation email once it's done",subscription,medium,neutral,english,cancel_subscription
+TKT-03023,I placed an order on September 28th and it still hasn't been delivered. My order number is ORD-949827.,shipping,medium,negative,english,track_order
+TKT-01213,The search function in your app returns no results even though I know there should be matches. I've tried using different browsers but same issue.,technical,high,negative,english,technical_troubleshooting
+TKT-03811,i returned my order two weeks ago but still haven't gotten my money back. this has gone on too long — i want my money back now.,refund,medium,negative,english,refund_duplicate_charge
+TKT-01758,I am so done with this. The login page just keeps refreshing without letting me in. I can provide ID verification if needed.,account,medium,negative,english,resolve_login_issue
+TKT-02726,My neighbor says no delivery attempt was made at my adress. I chose standard delivery.,shipping,medium,negative,english,track_order
+TKT-04128,The item doesnt match the description and I want my money returned. The order number is ORD-881220. I just want my money returned.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-00160,"Dear support team, Your system appears to have processed my payement twice. Reference number: ORD-133616. How do I get the extra amount refunded?",billing,urgent,neutral,english,refund_duplicate_charge
+TKT-04824,I don't want to renew my annual plan. I already tried to cancel through the website.,subscription,low,neutral,english,cancel_subscription
+TKT-00505,Something went wrong with my payment — the amount was deducted two times. Each charge is for $99.99.,billing,high,negative,english,refund_duplicate_charge
+TKT-00352,This is the third time I'm reaching out about the same issue. I was charged twice for the same purchase this month!!,billing,high,negative,english,refund_duplicate_charge
+TKT-03819,I'm not satisfied with my purchase and would like to return it. The order number is ORD-523424.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-03792,THE PRODUCT BROKE within the first day — I need my money back.,refund,high,negative,english,refund_duplicate_charge
+TKT-02465,"Hello, thank you in advance for your help. I've been trying to reset my password for the past hour. Can you send me a manual reset link?",account,medium,neutral,english,reset_password
+TKT-02967,My neighbor says no delivery attempt was made at my address. Can you check the status of my delivery?,shipping,high,negative,english,track_order
+TKT-02024,My account shows as deactivated but I never deactivated it. My username is customer2024. What steps do I need to take to fix this?,account,urgent,negative,english,resolve_login_issue
+TKT-04517,"Hi, I hope this message finds you well. Can you help me cancel before the next payment cycle? I've been a member since 2024. How soon will the cancellation take effect? Best wishes.",subscription,medium,positive,english,cancel_subscription
+TKT-01435,"Greetings, I'm writing to inquire about something. I keep getting a connection error when I try to use the app. Can someone please help me resolve this?",technical,medium,positive,english,technical_troubleshooting
+TKT-00446,my credit card was billed double for my recent purchase. i would appreciate it if you could refund the extra amount.,billing,high,negative,english,refund_duplicate_charge
+TKT-00784,The same amount was taken from my card twice. The transaction date shows three days ago!!,billing,high,negative,english,refund_duplicate_charge
+TKT-00697,i've wasted so much time on this already. i see an unauthorized duplicate deduction on my account. it appeared on my statement dated last week. can you resolve this? i shouldn't have been charged twice.,billing,high,negative,english,refund_duplicate_charge
+TKT-04973,I'm really upset about this. I'm switching to a different provider and need to cancel here.,subscription,low,negative,english,cancel_subscription
+TKT-02835,I am so done with this. Where is my order? The estimated delivery date has passed. I need to know when I'll receive my order.,shipping,high,negative,english,track_order
+TKT-04423,The service isn't worth the monthly fee anymore. My next payment date is on the 15th. Thank you for processing this promptly.,subscription,medium,neutral,english,cancel_subscription
+TKT-00939,The app is super slow and basically unusable right now. It works fine on my laptop but not on my Samsung tablet. I need this fixed as soon as possible.,technical,high,neutral,english,technical_troubleshooting
+TKT-04696,This is absolutely unacceptable. I want to unsubscribe from the premium tier. I don't want any retention offers — just cancel please.,subscription,medium,negative,english,cancel_subscription
+TKT-00969,I keep getting a connection error when I try to use the app. Is this a known issue? Are you working on a fix?,technical,medium,neutral,english,technical_troubleshooting
+TKT-03169,I can't believe this is happening again. The delivery was supposed to arrive by earlier this week. This is a gift and I needed it by a specific date. I need someone to investigate what happened to my package.,shipping,medium,negative,english,track_order
+TKT-02267,"I get an error saying my account doesn't exist, but I've had it for years. My registered email is j***@email.com.",account,high,neutral,english,resolve_login_issue
+TKT-01623,I KEEP GETTING A CONNECTION ERROR when I try to use the app. I need this fixed as soon as possible.,technical,high,negative,english,technical_troubleshooting
+TKT-01184,This is absolutely unacceptable. My data isn't syncing across devices anymore. I need this fixed as soon as possible.,technical,urgent,negative,english,technical_troubleshooting
+TKT-01761,"honestly, this is the worst experience. i enter my email and password but nothing happens.",account,medium,negative,english,resolve_login_issue
+TKT-01331,My data isn't syncing across devices anymore. This has been going on for 2 days now.,technical,urgent,negative,english,technical_troubleshooting
+TKT-03362,My return was approved weeks ago but the credit still hasn't appeared.,refund,high,negative,english,refund_duplicate_charge
+TKT-01759,I can't remember my password and need to regain access. Please help me regain access.,account,medium,neutral,english,reset_password
+TKT-04231,"Hi, I hope this message finds you well. I want to cancel my monthly plan.",subscription,high,neutral,english,cancel_subscription
+TKT-01035,I keep getting kicked out of the app randomly. I've tried restarting my iPhone but the problem persists.,technical,high,negative,english,technical_troubleshooting
+TKT-03876,The service didn't work as advertised — I want my money back. The amount I need returned is $24.99.,refund,urgent,negative,english,refund_duplicate_charge
+TKT-04675,I've been trying to cancel for days but can't figure out how. I don't see a cancel option in my account settings. Make sure no further charges are applied,subscription,low,neutral,english,cancel_subscription
+TKT-01872,The password reset email never arrives in my inbox. I've already tried from multiple devices.,account,medium,neutral,english,reset_password
+TKT-00101,Seriously?? Could you check my recent transactions? There seem to be two identical ones.,billing,high,negative,english,refund_duplicate_charge
+TKT-04383,I want to make sure I won't be charged next month. Can you also delete my stored payment information?,subscription,medium,neutral,english,cancel_subscription
+TKT-04603,I'd like to end my membership effective immediately. I've been a member since 2024. Can you also delete my stored payement information?,subscription,low,neutral,english,cancel_subscription
+TKT-03881,The item doesnt match the description and I want my money returned. The order number is ORD-602019.,refund,high,negative,english,refund_duplicate_charge
+TKT-01022,I keep getting kicked out of the app randomly. This started happening after the last update. Is this a known issue? Are you working on a fix?,technical,medium,neutral,english,technical_troubleshooting
+TKT-03676,"i'm not satisfied with my purchase and would like to return it. i already spoke with someone who said it would be taken care of. i want a full reimbursement, not store credit.",refund,urgent,negative,english,refund_duplicate_charge
+TKT-03003,"Good morning, I'd like some help please. I haven't received any shipping updates since I placed my order. I need to know when I'll receive my order.",shipping,medium,neutral,english,track_order
+TKT-00143,Looks like the payment went through two times. It appeared on my statement dated a few days ago. Please fix this and credit my account.,billing,high,negative,english,refund_duplicate_charge
+TKT-01277,"Hello, thank you in advance for your help. The interface glitches and buttons don't respond when I tap them. This started happening after the last update Thanks so much.",technical,medium,positive,english,technical_troubleshooting
