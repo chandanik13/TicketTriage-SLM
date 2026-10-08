@@ -130,7 +130,6 @@ def predict_ticket(text: str, tokenizer, model, generation_config=None) -> dict:
         # Deterministic generation for classification
         generation_config = {
             "max_new_tokens": 128,
-            "temperature": 0.0,
             "do_sample": False,
             "pad_token_id": tokenizer.eos_token_id
         }
